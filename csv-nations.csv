@@ -1,0 +1,250 @@
+iso_a2,unit_name,unit_code,loc_count
+BR,Brazil,BR-DF,7968
+MX,Mexico,MX-DF,5090
+IR,Iran,IRN,0
+KZ,Kazakhstan,KZ-MAN,782
+AR,Argentina,AR-Y,3519
+NF,Norfolk Island,NFK,0
+AZ,Azerbaijan,AZE,0
+EC,Ecuador,EC-E,602
+FK,Falkland Islands,FLK,3
+RU,Russia,RU-IRK,5538
+CF,Central African Republic,CAF,0
+US,United States,US-MD,11771
+MD,Moldova,MDA,0
+DE,Germany,DE-SN,2375
+IL,Israel,IL-Z,300
+IQ,Iraq,IRQ,0
+GU,Guam,GUM,35
+PH,Philippines,PH-DAV,2296
+CO,Colombia,CO-MET,1924
+ER,Eritrea,ERI,0
+GB,United Kingdom,GB-SCB,2112
+IN,India,IN-GJ,7860
+PW,Palau,PLW,0
+IT,Italy,IT-CI,2455
+PS,Palestine,PS-GZZ,105
+ID,Indonesia,ID-YO,5144
+KE,Kenya,KE-400,1515
+LV,Latvia,LVA,450
+CR,Costa Rica,CRI,375
+MY,Malaysia,MY-11,1532
+JP,Japan,JP-06,3385
+TH,Thailand,TH-63,2575
+XK,Kosovo,KOS,0
+ES,Spain,ES-HU,3103
+MP,Northern Mariana Islands,MNP,30
+GR,Greece,GR-B,1195
+SE,Sweden,SE-O,1850
+PL,Poland,PL-MZ,1935
+CA,Canada,CA-QC,5045
+ML,Mali,MLI,0
+PE,Peru,PE-SAM,2189
+PT,Portugal,PT-20,840
+FR,France,FR-50,2915
+BT,Bhutan,BTN,135
+KN,Saint Kitts and Nevis,KNA,0
+TR,Turkey,TR-08,3100
+KY,Cayman Islands,CYM,0
+CM,Cameroon,CMR,0
+AI,Anguilla,AIA,0
+HR,Croatia,HRV,550
+BL,Saint Barthélemy,BLM,0
+CL,Chile,CL-LI,2070
+BM,Bermuda,BMU,22
+PF,French Polynesia,PYF,0
+DO,Dominican Republic,DOM,70
+SL,Sierra Leone,SLE,0
+TO,Tonga,TON,0
+KI,Kiribati,KIR,0
+GI,Gibraltar,GIB,8
+DJ,Djibouti,DJI,0
+BD,Bangladesh,BD-C,1205
+AU,Australia,AU-NT,4775
+CH,Switzerland,CHE,475
+UA,Ukraine,UA-51,975
+QA,Qatar,QAT,110
+SA,Saudi Arabia,SAU,0
+CZ,Czechia,CZE,700
+TZ,Tanzania,TZA,2
+RO,Romania,RO-AR,1655
+MQ,Martinique,FR-MQ,3
+GN,Guinea,GIN,0
+MF,Saint Martin,MAF,0
+NA,Namibia,NAM,750
+LT,Lithuania,LTU,475
+NG,Nigeria,NG-AB,1255
+LB,Lebanon,LBN,14
+BA,Bosnia and Herzegovina,BIH,475
+HN,Honduras,HND,0
+BW,Botswana,BWA,400
+ZA,South Africa,ZA-NL,3555
+RE,Réunion,FR-RE,80
+BZ,Belize,BLZ,0
+BJ,Benin,BEN,0
+VN,Vietnam,VN-27,2315
+ST,São Tomé and Principe,STP,0
+UY,Uruguay,URY,500
+GE,Georgia,GEO,0
+LC,Saint Lucia,LCA,0
+MW,Malawi,MWI,0
+VE,Venezuela,VEN,0
+SX,Sint Maarten,SXM,0
+BO,Bolivia,BOL,400
+AQ,Antarctica,ATA,2
+SR,Suriname,SUR,0
+GA,Gabon,GAB,0
+KG,Kyrgyzstan,KGZ,180
+CY,Cyprus,CYN,120
+MU,Mauritius,MUS,0
+AT,Austria,AUT,750
+UM,United States Minor Outlying Islands,UMI,2
+DZ,Algeria,DZA,0
+TG,Togo,TGO,0
+PG,Papua New Guinea,PNG,0
+XX,Spratly Islands,PGA,0
+SG,Singapore,SGP,25
+NZ,New Zealand,NZ-X06~,1500
+VU,Vanuatu,VUT,3
+IE,Ireland,IRL,500
+EG,Egypt,EGY,5
+AL,Albania,ALB,200
+PN,Pitcairn Islands,PCN,3
+PY,Paraguay,PRY,425
+TV,Tuvalu,TUV,0
+FM,Federated States of Micronesia,FSM,0
+AG,Antigua and Barbuda,ATG,0
+WS,Samoa,WSM,0
+LA,Laos,LAO,60
+TM,Turkmenistan,TKM,0
+FJ,Fiji,FJI,0
+ME,Montenegro,MNE,110
+GG,Guernsey,GGY,0
+AW,Aruba,ABW,0
+LS,Lesotho,LSO,135
+SO,Somalia,SOM,0
+AE,United Arab Emirates,ARE,120
+AS,American Samoa,ASM,25
+MG,Madagascar,MDG,14
+LY,Libya,LBY,0
+SS,South Sudan,SDS,0
+BH,Bahrain,BHR,0
+AF,Afghanistan,AFG,0
+DM,Dominica,DMA,0
+TC,Turks and Caicos Islands,TCA,0
+MZ,Mozambique,MOZ,0
+TL,East Timor,TLS,0
+PA,Panama,PAN,350
+MA,Morocco,MAR,0
+SC,Seychelles,SYC,0
+NO,Norway,NO-11,1810
+LR,Liberia,LBR,0
+NC,New Caledonia,NCL,0
+PR,Puerto Rico,PRI,135
+BG,Bulgaria,BGR,800
+SH,Saint Helena,SHN,0
+MO,Macau,MAC,12
+GH,Ghana,GHA,375
+UZ,Uzbekistan,UZB,0
+IM,Isle of Man,IMN,18
+TD,Chad,TCD,0
+SD,Sudan,SDN,0
+SB,Solomon Islands,SLB,0
+NI,Nicaragua,NIC,0
+WF,Wallis and Futuna,WLF,0
+MS,Montserrat,MSR,0
+TT,Trinidad and Tobago,TTO,0
+MK,North Macedonia,MKD,100
+GQ,Equatorial Guinea,GNQ,0
+HK,Hong Kong,HKG,80
+CX,Christmas Island,CXR,16
+YT,Mayotte,FR-YT,0
+BN,Brunei,BRN,0
+RW,Rwanda,RWA,225
+LK,Sri Lanka,LKA,650
+JE,Jersey,JEY,10
+AO,Angola,AGO,0
+SK,Slovakia,SVK,550
+VG,British Virgin Islands,VGB,0
+SV,El Salvador,SLV,0
+NP,Nepal,NPL,600
+TN,Tunisia,TUN,120
+SZ,Eswatini,SWZ,120
+CU,Cuba,CUB,0
+TW,Taiwan,TWN,685
+GM,Gambia,GMB,0
+FO,Faroe Islands,FRO,60
+HU,Hungary,HUN,700
+BB,Barbados,BRB,0
+RS,Serbia,SRB,300
+MV,Maldives,MDV,0
+ZM,Zambia,ZMB,0
+HT,Haiti,HTI,0
+HM,Heard Island and McDonald Islands,HMD,0
+BF,Burkina Faso,BFA,0
+NU,Niue,NIU,0
+CW,Curaçao,CUW,40
+CK,Cook Islands,COK,0
+AD,Andorra,AND,18
+KR,South Korea,KOR,600
+MN,Mongolia,MNG,600
+CI,Ivory Coast,CIV,0
+CC,Cocos (Keeling) Islands,CCK,14
+KW,Kuwait,KWT,0
+NE,Niger,NER,0
+GY,Guyana,GUY,0
+BI,Burundi,BDI,0
+OM,Oman,OMN,950
+EH,Western Sahara,SAH,0
+NL,Netherlands,NLD,550
+GT,Guatemala,GTM,350
+AX,Åland,ALD,16
+PK,Pakistan,PAK,16
+YE,Yemen,YEM,0
+MR,Mauritania,MRT,0
+SI,Slovenia,SVN,225
+BS,The Bahamas,BHS,0
+MM,Myanmar,MMR,0
+ET,Ethiopia,ETH,0
+TJ,Tajikistan,TJK,0
+BV,Bouvet Island,NO-X01~,0
+UG,Uganda,UGA,100
+EE,Estonia,EST,425
+SN,Senegal,SEN,550
+KP,North Korea,PRK,0
+GW,Guinea-Bissau,GNB,0
+BE,Belgium,BEL,425
+VI,US Virgin Islands,VIR,50
+TF,French Southern and Antarctic Lands,ATF,0
+BY,Belarus,BLR,2
+CV,Cabo Verde,CPV,0
+KM,Comoros,COM,0
+GS,South Georgia and the Islands,SGS,2
+ZW,Zimbabwe,ZWE,0
+MH,Marshall Islands,MHL,0
+GD,Grenada,GRD,0
+CN,China,CHN,0
+GF,French Guiana,FR-GF,0
+DK,Denmark,DNK,550
+IS,Iceland,ISL,450
+SJ,Svalbard and Jan Mayen,NO-21,14
+JM,Jamaica,JAM,0
+CD,Democratic Republic of the Congo,COD,0
+MC,Monaco,MCO,5
+LI,Liechtenstein,LIE,16
+SY,Syria,SYR,0
+IO,British Indian Ocean Territory,IOT,0
+AM,Armenia,ARM,0
+CG,Republic of the Congo,COG,0
+VC,Saint Vincent and the Grenadines,VCT,0
+JO,Jordan,JOR,100
+FI,Finland,FIN,1000
+LU,Luxembourg,LUX,90
+KH,Cambodia,KHM,800
+GP,Guadeloupe,FR-GP,0
+SM,San Marino,SMR,18
+CP,Clipperton Island,CLP,0
+PM,Saint Pierre and Miquelon,SPM,6
+MT,Malta,MLT,50
+NR,Nauru,NRU,0
+GL,Greenland,GRL,70

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sidetrek — A GeoGuessr World Map</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://api.mapbox.com/mapbox-gl-js/v3.4.0/mapbox-gl.css" rel="stylesheet" />
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.4.0/mapbox-gl.js"></script>
+</head>
+
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <span class="nav-logo">Sidetrek</span>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#map">Distribution</a></li>
+      <li><a href="#feedback">Feedback</a></li>
+      <li><a href="https://www.geoguessr.com" target="_blank">Play on GeoGuessr ↗</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-fog">
+      <div class="fog-wisp"></div>
+      <div class="fog-wisp"></div>
+      <div class="fog-wisp"></div>
+    </div>
+    <p class="hero-eyebrow">A map by Wolftrekker</p>
+    <h1 class="hero-title">Side<em>trek</em></h1>
+    <p class="hero-subtitle">Look sideways.</p>
+    <p class="hero-desc">
+      A world NMPZ map with ~130,000 locations — no car metas, no antenna metas,
+      and a whole lot of views you wouldn't normally get to see.
+    </p>
+    <p class="hero-disclaimer">Not recommended for your first week of GeoGuessr.</p>
+    <div class="hero-cta">
+      <a href="https://www.geoguessr.com" class="btn-primary">Play on GeoGuessr</a>
+      <a href="#about" class="btn-secondary">What makes it different?</a>
+    </div>
+    <span class="hero-scroll-hint">Scroll to explore</span>
+  </div>
+
+  <!-- ABOUT -->
+  <section id="about">
+
+    <div class="about-intro">
+      <h2>So what's the deal<br>with <em>Sidetrek?</em></h2>
+      <div class="about-body">
+        <p>
+          Standard GeoGuessr maps point the camera down the road. That's just how it's always been done — and it works.
+          But it also means a lot of rounds play out the same way: you're reading the car, the antenna, the road
+          markings,
+          and you've already got a shortlist before you've even looked at what's around you.
+        </p>
+        <p>
+          Sidetrek flips the default. <strong>Zoom in a little</strong> and the Google car disappears from view — no
+          antenna,
+          no car roof, not even a car blur. <strong>Pan away from the road sometimes</strong> and suddenly you're
+          looking at
+          a valley, a river bend, a crumbling wall, the kind of angle a passenger might take if they bothered to look
+          out
+          the window.
+        </p>
+        <p>
+          It adds a dimension to NMPZ that doesn't come up much: you're not just reading metadata, you're actually
+          reading
+          the world.
+        </p>
+        <div class="about-tags">
+          <span>🤝 Hybrid map — handpicked + AI-generated</span>
+          <span>✓ Every AI location sanity-checked</span>
+          <span>🔍 Varied methods, interesting spots</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="stats">
+      <div class="stat">
+        <span class="stat-number">~130k</span>
+        <span class="stat-label">Locations</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number">~130</span>
+        <span class="stat-label">Countries & Territories</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number">NMPZ</span>
+        <span class="stat-label">Format</span>
+      </div>
+    </div>
+
+    <div class="about-detail">
+      <div class="detail-block">
+        <h3>No car metas</h3>
+        <p>
+          Every location is slightly zoomed in so the Google car doesn't show.
+          No car roof. No antenna. The first thing you're reading is the actual world around
+          you, not the camera rig you're sitting in.
+        </p>
+      </div>
+      <div class="detail-block">
+        <h3>Hybrid panning</h3>
+        <p>
+          A lot of Sidetrek goes beyond road-facing. Locations are panned toward
+          whatever's actually worth looking at — valleys, rivers, farmland, architecture.
+          Each creative angle is locked to a specific Street View snapshot, so the panning choices don't disappear when
+          Google updates its imagery.
+        </p>
+      </div>
+    </div>
+
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- MAP SECTION -->
+  <div class="map-section" id="map">
+    <section style="padding-top: 0; padding-bottom: 0;">
+      <h2>Where does <em>Sidetrek</em> take you?</h2>
+      <p>
+        The distribution here is deliberate. Rather than filling the map proportionally by landmass or Street View
+        coverage, locations were chosen to maximise variety — representing all regions of the world fairly, while
+        leaning toward places that are visually interesting or underrepresented in other maps. No two rounds should feel
+        like the same vibe.
+      <p>
+        GeoGuessr maps are capped at around 111,250 locations. Sidetrek draws from a pool of over
+        130,000 — so each time the map updates, a fresh selection is pulled from that pool, keeping
+        things varied over time.
+      </p>
+      <p>
+        Toggle below to explore how coverage breaks down across continents, countries, and subdivisions.
+      </p>
+      <div class="map-toggle-row">
+        <button class="map-toggle active">Continent</button>
+        <button class="map-toggle">Country</button>
+        <button class="map-toggle">Subdivision</button>
+      </div>
+    </section>
+
+    <div id="map-container">
+      <div id="mapbox-map"></div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- CONTRIBUTORS -->
+  <section id="contributors">
+    <h2>Thanks to these people<br>for <em>contributing locations</em></h2>
+    <p>
+      A handful of players sent in standout locations from around the world.
+      The map's better for it.
+    </p>
+    <div class="contributors-grid">
+      <span class="contributor">GeoWanderer</span>
+      <span class="contributor">StreetSage</span>
+      <span class="contributor">RoamingLens</span>
+      <span class="contributor">MapMystic</span>
+      <span class="contributor">TerraTracer</span>
+      <span class="contributor">DriftMapper</span>
+      <span class="contributor">PanoPath</span>
+      <span class="contributor">LandmarkLurker</span>
+      <span class="contributor">OrbitEye</span>
+      <span class="contributor">VistaSeekerX</span>
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+  <!-- FEEDBACK & REPORT -->
+  <section id="feedback">
+    <h2>Got something to say?</h2>
+    <p>
+      Sidetrek is a living map — it'll keep getting updated after release. Seen one too many cows in Goiás?
+      Found a completely broken location? Just want to say something? Use the forms below.
+    </p>
+
+    <div class="forms-grid">
+
+      <div class="form-card">
+        <div class="form-card-header">
+          <span class="form-card-icon">✉</span>
+          <div>
+            <div class="form-card-title">General Feedback</div>
+            <div class="form-card-sub">Thoughts, opinions, criticism, praise — anything goes.</div>
+          </div>
+        </div>
+        <form action="https://formspree.io/f/XXXXXXXX" method="POST" class="form">
+          <div class="form-group">
+            <label for="fb-name">Your name or username <span class="form-optional">(optional)</span></label>
+            <input type="text" id="fb-name" name="name" placeholder="e.g. GeoWanderer" />
+          </div>
+          <div class="form-group">
+            <label for="fb-message">Your feedback</label>
+            <textarea id="fb-message" name="message" rows="5"
+              placeholder="Too much urban Brazil. Not enough rural Finland. The atmosphere is immaculate. Whatever's on your mind..."
+              required></textarea>
+          </div>
+          <button type="submit" class="btn-form">Send Feedback</button>
+          <p class="form-note">Goes straight to me. No account needed.</p>
+        </form>
+      </div>
+
+      <div class="form-card">
+        <div class="form-card-header">
+          <span class="form-card-icon">⚑</span>
+          <div>
+            <div class="form-card-title">Report a Location</div>
+            <div class="form-card-sub">Found a broken, blurred, or completely scuffed loc? Flag it.</div>
+          </div>
+        </div>
+        <form action="https://formspree.io/f/YYYYYYYY" method="POST" class="form">
+          <div class="form-group">
+            <label for="rp-issue">What's wrong with it?</label>
+            <select id="rp-issue" name="issue" required>
+              <option value="" disabled selected>Select an issue</option>
+              <option value="blur">Heavy blur / black blob</option>
+              <option value="missing">Location missing / gone black</option>
+              <option value="wrong-country">Appears to be in the wrong country</option>
+              <option value="indoors">Stuck indoors / inside a building</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="rp-location">Where approximately? <span class="form-optional">(optional but
+                helpful)</span></label>
+            <input type="text" id="rp-location" name="location" placeholder="e.g. Rural Romania, mountainous area" />
+          </div>
+          <div class="form-group">
+            <label for="rp-details">Any other details</label>
+            <textarea id="rp-details" name="details" rows="3"
+              placeholder="Describe what you saw, or paste a screenshot link if you have one..."></textarea>
+          </div>
+          <button type="submit" class="btn-form">Submit Report</button>
+          <p class="form-note">Helps keep the map clean. Cheers.</p>
+        </form>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <span class="footer-name">Sidetrek — by Wolftrekker</span>
+    <ul class="footer-links">
+      <li><a href="https://github.com/wolftrekker" target="_blank">GitHub</a></li>
+      <li><a href="https://www.geoguessr.com" target="_blank">GeoGuessr</a></li>
+    </ul>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

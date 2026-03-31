@@ -1,0 +1,2604 @@
+{
+  "nations": {
+    "Brazil": {
+      "iso_a2": "BR",
+      "loc_count": 7968
+    },
+    "Mexico": {
+      "iso_a2": "MX",
+      "loc_count": 5090
+    },
+    "Iran": {
+      "iso_a2": "IR",
+      "loc_count": 0
+    },
+    "Kazakhstan": {
+      "iso_a2": "KZ",
+      "loc_count": 782
+    },
+    "Argentina": {
+      "iso_a2": "AR",
+      "loc_count": 3519
+    },
+    "Norfolk Island": {
+      "iso_a2": "NF",
+      "loc_count": 0
+    },
+    "Azerbaijan": {
+      "iso_a2": "AZ",
+      "loc_count": 0
+    },
+    "Ecuador": {
+      "iso_a2": "EC",
+      "loc_count": 602
+    },
+    "Falkland Islands": {
+      "iso_a2": "FK",
+      "loc_count": 3
+    },
+    "Russia": {
+      "iso_a2": "RU",
+      "loc_count": 5538
+    },
+    "Central African Republic": {
+      "iso_a2": "CF",
+      "loc_count": 0
+    },
+    "United States": {
+      "iso_a2": "US",
+      "loc_count": 11771
+    },
+    "Moldova": {
+      "iso_a2": "MD",
+      "loc_count": 0
+    },
+    "Germany": {
+      "iso_a2": "DE",
+      "loc_count": 2375
+    },
+    "Israel": {
+      "iso_a2": "IL",
+      "loc_count": 300
+    },
+    "Iraq": {
+      "iso_a2": "IQ",
+      "loc_count": 0
+    },
+    "Guam": {
+      "iso_a2": "GU",
+      "loc_count": 35
+    },
+    "Philippines": {
+      "iso_a2": "PH",
+      "loc_count": 2296
+    },
+    "Colombia": {
+      "iso_a2": "CO",
+      "loc_count": 1924
+    },
+    "Eritrea": {
+      "iso_a2": "ER",
+      "loc_count": 0
+    },
+    "United Kingdom": {
+      "iso_a2": "GB",
+      "loc_count": 2112
+    },
+    "India": {
+      "iso_a2": "IN",
+      "loc_count": 7860
+    },
+    "Palau": {
+      "iso_a2": "PW",
+      "loc_count": 0
+    },
+    "Italy": {
+      "iso_a2": "IT",
+      "loc_count": 2455
+    },
+    "Palestine": {
+      "iso_a2": "PS",
+      "loc_count": 105
+    },
+    "Indonesia": {
+      "iso_a2": "ID",
+      "loc_count": 5144
+    },
+    "Kenya": {
+      "iso_a2": "KE",
+      "loc_count": 1515
+    },
+    "Latvia": {
+      "iso_a2": "LV",
+      "loc_count": 450
+    },
+    "Costa Rica": {
+      "iso_a2": "CR",
+      "loc_count": 375
+    },
+    "Malaysia": {
+      "iso_a2": "MY",
+      "loc_count": 1532
+    },
+    "Japan": {
+      "iso_a2": "JP",
+      "loc_count": 3385
+    },
+    "Thailand": {
+      "iso_a2": "TH",
+      "loc_count": 2575
+    },
+    "Kosovo": {
+      "iso_a2": "XK",
+      "loc_count": 0
+    },
+    "Spain": {
+      "iso_a2": "ES",
+      "loc_count": 3103
+    },
+    "Northern Mariana Islands": {
+      "iso_a2": "MP",
+      "loc_count": 30
+    },
+    "Greece": {
+      "iso_a2": "GR",
+      "loc_count": 1195
+    },
+    "Sweden": {
+      "iso_a2": "SE",
+      "loc_count": 1850
+    },
+    "Poland": {
+      "iso_a2": "PL",
+      "loc_count": 1935
+    },
+    "Canada": {
+      "iso_a2": "CA",
+      "loc_count": 5045
+    },
+    "Mali": {
+      "iso_a2": "ML",
+      "loc_count": 0
+    },
+    "Peru": {
+      "iso_a2": "PE",
+      "loc_count": 2189
+    },
+    "Portugal": {
+      "iso_a2": "PT",
+      "loc_count": 840
+    },
+    "France": {
+      "iso_a2": "FR",
+      "loc_count": 2915
+    },
+    "Bhutan": {
+      "iso_a2": "BT",
+      "loc_count": 135
+    },
+    "Saint Kitts and Nevis": {
+      "iso_a2": "KN",
+      "loc_count": 0
+    },
+    "Turkey": {
+      "iso_a2": "TR",
+      "loc_count": 3100
+    },
+    "Cayman Islands": {
+      "iso_a2": "KY",
+      "loc_count": 0
+    },
+    "Cameroon": {
+      "iso_a2": "CM",
+      "loc_count": 0
+    },
+    "Anguilla": {
+      "iso_a2": "AI",
+      "loc_count": 0
+    },
+    "Croatia": {
+      "iso_a2": "HR",
+      "loc_count": 550
+    },
+    "Saint Barthélemy": {
+      "iso_a2": "BL",
+      "loc_count": 0
+    },
+    "Chile": {
+      "iso_a2": "CL",
+      "loc_count": 2070
+    },
+    "Bermuda": {
+      "iso_a2": "BM",
+      "loc_count": 22
+    },
+    "French Polynesia": {
+      "iso_a2": "PF",
+      "loc_count": 0
+    },
+    "Dominican Republic": {
+      "iso_a2": "DO",
+      "loc_count": 70
+    },
+    "Sierra Leone": {
+      "iso_a2": "SL",
+      "loc_count": 0
+    },
+    "Tonga": {
+      "iso_a2": "TO",
+      "loc_count": 0
+    },
+    "Kiribati": {
+      "iso_a2": "KI",
+      "loc_count": 0
+    },
+    "Gibraltar": {
+      "iso_a2": "GI",
+      "loc_count": 8
+    },
+    "Djibouti": {
+      "iso_a2": "DJ",
+      "loc_count": 0
+    },
+    "Bangladesh": {
+      "iso_a2": "BD",
+      "loc_count": 1205
+    },
+    "Australia": {
+      "iso_a2": "AU",
+      "loc_count": 4775
+    },
+    "Switzerland": {
+      "iso_a2": "CH",
+      "loc_count": 475
+    },
+    "Ukraine": {
+      "iso_a2": "UA",
+      "loc_count": 975
+    },
+    "Qatar": {
+      "iso_a2": "QA",
+      "loc_count": 110
+    },
+    "Saudi Arabia": {
+      "iso_a2": "SA",
+      "loc_count": 0
+    },
+    "Czechia": {
+      "iso_a2": "CZ",
+      "loc_count": 700
+    },
+    "Tanzania": {
+      "iso_a2": "TZ",
+      "loc_count": 2
+    },
+    "Romania": {
+      "iso_a2": "RO",
+      "loc_count": 1655
+    },
+    "Martinique": {
+      "iso_a2": "MQ",
+      "loc_count": 3
+    },
+    "Guinea": {
+      "iso_a2": "GN",
+      "loc_count": 0
+    },
+    "Saint Martin": {
+      "iso_a2": "MF",
+      "loc_count": 0
+    },
+    "Namibia": {
+      "iso_a2": "NA",
+      "loc_count": 750
+    },
+    "Lithuania": {
+      "iso_a2": "LT",
+      "loc_count": 475
+    },
+    "Nigeria": {
+      "iso_a2": "NG",
+      "loc_count": 1255
+    },
+    "Lebanon": {
+      "iso_a2": "LB",
+      "loc_count": 14
+    },
+    "Bosnia and Herzegovina": {
+      "iso_a2": "BA",
+      "loc_count": 475
+    },
+    "Honduras": {
+      "iso_a2": "HN",
+      "loc_count": 0
+    },
+    "Botswana": {
+      "iso_a2": "BW",
+      "loc_count": 400
+    },
+    "South Africa": {
+      "iso_a2": "ZA",
+      "loc_count": 3555
+    },
+    "Réunion": {
+      "iso_a2": "RE",
+      "loc_count": 80
+    },
+    "Belize": {
+      "iso_a2": "BZ",
+      "loc_count": 0
+    },
+    "Benin": {
+      "iso_a2": "BJ",
+      "loc_count": 0
+    },
+    "Vietnam": {
+      "iso_a2": "VN",
+      "loc_count": 2315
+    },
+    "São Tomé and Principe": {
+      "iso_a2": "ST",
+      "loc_count": 0
+    },
+    "Uruguay": {
+      "iso_a2": "UY",
+      "loc_count": 500
+    },
+    "Georgia": {
+      "iso_a2": "GE",
+      "loc_count": 0
+    },
+    "Saint Lucia": {
+      "iso_a2": "LC",
+      "loc_count": 0
+    },
+    "Malawi": {
+      "iso_a2": "MW",
+      "loc_count": 0
+    },
+    "Venezuela": {
+      "iso_a2": "VE",
+      "loc_count": 0
+    },
+    "Sint Maarten": {
+      "iso_a2": "SX",
+      "loc_count": 0
+    },
+    "Bolivia": {
+      "iso_a2": "BO",
+      "loc_count": 400
+    },
+    "Antarctica": {
+      "iso_a2": "AQ",
+      "loc_count": 2
+    },
+    "Suriname": {
+      "iso_a2": "SR",
+      "loc_count": 0
+    },
+    "Gabon": {
+      "iso_a2": "GA",
+      "loc_count": 0
+    },
+    "Kyrgyzstan": {
+      "iso_a2": "KG",
+      "loc_count": 180
+    },
+    "Cyprus": {
+      "iso_a2": "CY",
+      "loc_count": 120
+    },
+    "Mauritius": {
+      "iso_a2": "MU",
+      "loc_count": 0
+    },
+    "Austria": {
+      "iso_a2": "AT",
+      "loc_count": 750
+    },
+    "United States Minor Outlying Islands": {
+      "iso_a2": "UM",
+      "loc_count": 2
+    },
+    "Algeria": {
+      "iso_a2": "DZ",
+      "loc_count": 0
+    },
+    "Togo": {
+      "iso_a2": "TG",
+      "loc_count": 0
+    },
+    "Papua New Guinea": {
+      "iso_a2": "PG",
+      "loc_count": 0
+    },
+    "Spratly Islands": {
+      "iso_a2": "XX",
+      "loc_count": 0
+    },
+    "Singapore": {
+      "iso_a2": "SG",
+      "loc_count": 25
+    },
+    "New Zealand": {
+      "iso_a2": "NZ",
+      "loc_count": 1500
+    },
+    "Vanuatu": {
+      "iso_a2": "VU",
+      "loc_count": 3
+    },
+    "Ireland": {
+      "iso_a2": "IE",
+      "loc_count": 500
+    },
+    "Egypt": {
+      "iso_a2": "EG",
+      "loc_count": 5
+    },
+    "Albania": {
+      "iso_a2": "AL",
+      "loc_count": 200
+    },
+    "Pitcairn Islands": {
+      "iso_a2": "PN",
+      "loc_count": 3
+    },
+    "Paraguay": {
+      "iso_a2": "PY",
+      "loc_count": 425
+    },
+    "Tuvalu": {
+      "iso_a2": "TV",
+      "loc_count": 0
+    },
+    "Federated States of Micronesia": {
+      "iso_a2": "FM",
+      "loc_count": 0
+    },
+    "Antigua and Barbuda": {
+      "iso_a2": "AG",
+      "loc_count": 0
+    },
+    "Samoa": {
+      "iso_a2": "WS",
+      "loc_count": 0
+    },
+    "Laos": {
+      "iso_a2": "LA",
+      "loc_count": 60
+    },
+    "Turkmenistan": {
+      "iso_a2": "TM",
+      "loc_count": 0
+    },
+    "Fiji": {
+      "iso_a2": "FJ",
+      "loc_count": 0
+    },
+    "Montenegro": {
+      "iso_a2": "ME",
+      "loc_count": 110
+    },
+    "Guernsey": {
+      "iso_a2": "GG",
+      "loc_count": 0
+    },
+    "Aruba": {
+      "iso_a2": "AW",
+      "loc_count": 0
+    },
+    "Lesotho": {
+      "iso_a2": "LS",
+      "loc_count": 135
+    },
+    "Somalia": {
+      "iso_a2": "SO",
+      "loc_count": 0
+    },
+    "United Arab Emirates": {
+      "iso_a2": "AE",
+      "loc_count": 120
+    },
+    "American Samoa": {
+      "iso_a2": "AS",
+      "loc_count": 25
+    },
+    "Madagascar": {
+      "iso_a2": "MG",
+      "loc_count": 14
+    },
+    "Libya": {
+      "iso_a2": "LY",
+      "loc_count": 0
+    },
+    "South Sudan": {
+      "iso_a2": "SS",
+      "loc_count": 0
+    },
+    "Bahrain": {
+      "iso_a2": "BH",
+      "loc_count": 0
+    },
+    "Afghanistan": {
+      "iso_a2": "AF",
+      "loc_count": 0
+    },
+    "Dominica": {
+      "iso_a2": "DM",
+      "loc_count": 0
+    },
+    "Turks and Caicos Islands": {
+      "iso_a2": "TC",
+      "loc_count": 0
+    },
+    "Mozambique": {
+      "iso_a2": "MZ",
+      "loc_count": 0
+    },
+    "East Timor": {
+      "iso_a2": "TL",
+      "loc_count": 0
+    },
+    "Panama": {
+      "iso_a2": "PA",
+      "loc_count": 350
+    },
+    "Morocco": {
+      "iso_a2": "MA",
+      "loc_count": 0
+    },
+    "Seychelles": {
+      "iso_a2": "SC",
+      "loc_count": 0
+    },
+    "Norway": {
+      "iso_a2": "NO",
+      "loc_count": 1810
+    },
+    "Liberia": {
+      "iso_a2": "LR",
+      "loc_count": 0
+    },
+    "New Caledonia": {
+      "iso_a2": "NC",
+      "loc_count": 0
+    },
+    "Puerto Rico": {
+      "iso_a2": "PR",
+      "loc_count": 135
+    },
+    "Bulgaria": {
+      "iso_a2": "BG",
+      "loc_count": 800
+    },
+    "Saint Helena": {
+      "iso_a2": "SH",
+      "loc_count": 0
+    },
+    "Macau": {
+      "iso_a2": "MO",
+      "loc_count": 12
+    },
+    "Ghana": {
+      "iso_a2": "GH",
+      "loc_count": 375
+    },
+    "Uzbekistan": {
+      "iso_a2": "UZ",
+      "loc_count": 0
+    },
+    "Isle of Man": {
+      "iso_a2": "IM",
+      "loc_count": 18
+    },
+    "Chad": {
+      "iso_a2": "TD",
+      "loc_count": 0
+    },
+    "Sudan": {
+      "iso_a2": "SD",
+      "loc_count": 0
+    },
+    "Solomon Islands": {
+      "iso_a2": "SB",
+      "loc_count": 0
+    },
+    "Nicaragua": {
+      "iso_a2": "NI",
+      "loc_count": 0
+    },
+    "Wallis and Futuna": {
+      "iso_a2": "WF",
+      "loc_count": 0
+    },
+    "Montserrat": {
+      "iso_a2": "MS",
+      "loc_count": 0
+    },
+    "Trinidad and Tobago": {
+      "iso_a2": "TT",
+      "loc_count": 0
+    },
+    "North Macedonia": {
+      "iso_a2": "MK",
+      "loc_count": 100
+    },
+    "Equatorial Guinea": {
+      "iso_a2": "GQ",
+      "loc_count": 0
+    },
+    "Hong Kong": {
+      "iso_a2": "HK",
+      "loc_count": 80
+    },
+    "Christmas Island": {
+      "iso_a2": "CX",
+      "loc_count": 16
+    },
+    "Mayotte": {
+      "iso_a2": "YT",
+      "loc_count": 0
+    },
+    "Brunei": {
+      "iso_a2": "BN",
+      "loc_count": 0
+    },
+    "Rwanda": {
+      "iso_a2": "RW",
+      "loc_count": 225
+    },
+    "Sri Lanka": {
+      "iso_a2": "LK",
+      "loc_count": 650
+    },
+    "Jersey": {
+      "iso_a2": "JE",
+      "loc_count": 10
+    },
+    "Angola": {
+      "iso_a2": "AO",
+      "loc_count": 0
+    },
+    "Slovakia": {
+      "iso_a2": "SK",
+      "loc_count": 550
+    },
+    "British Virgin Islands": {
+      "iso_a2": "VG",
+      "loc_count": 0
+    },
+    "El Salvador": {
+      "iso_a2": "SV",
+      "loc_count": 0
+    },
+    "Nepal": {
+      "iso_a2": "NP",
+      "loc_count": 600
+    },
+    "Tunisia": {
+      "iso_a2": "TN",
+      "loc_count": 120
+    },
+    "Eswatini": {
+      "iso_a2": "SZ",
+      "loc_count": 120
+    },
+    "Cuba": {
+      "iso_a2": "CU",
+      "loc_count": 0
+    },
+    "Taiwan": {
+      "iso_a2": "TW",
+      "loc_count": 685
+    },
+    "Gambia": {
+      "iso_a2": "GM",
+      "loc_count": 0
+    },
+    "Faroe Islands": {
+      "iso_a2": "FO",
+      "loc_count": 60
+    },
+    "Hungary": {
+      "iso_a2": "HU",
+      "loc_count": 700
+    },
+    "Barbados": {
+      "iso_a2": "BB",
+      "loc_count": 0
+    },
+    "Serbia": {
+      "iso_a2": "RS",
+      "loc_count": 300
+    },
+    "Maldives": {
+      "iso_a2": "MV",
+      "loc_count": 0
+    },
+    "Zambia": {
+      "iso_a2": "ZM",
+      "loc_count": 0
+    },
+    "Haiti": {
+      "iso_a2": "HT",
+      "loc_count": 0
+    },
+    "Heard Island and McDonald Islands": {
+      "iso_a2": "HM",
+      "loc_count": 0
+    },
+    "Burkina Faso": {
+      "iso_a2": "BF",
+      "loc_count": 0
+    },
+    "Niue": {
+      "iso_a2": "NU",
+      "loc_count": 0
+    },
+    "Curaçao": {
+      "iso_a2": "CW",
+      "loc_count": 40
+    },
+    "Cook Islands": {
+      "iso_a2": "CK",
+      "loc_count": 0
+    },
+    "Andorra": {
+      "iso_a2": "AD",
+      "loc_count": 18
+    },
+    "South Korea": {
+      "iso_a2": "KR",
+      "loc_count": 600
+    },
+    "Mongolia": {
+      "iso_a2": "MN",
+      "loc_count": 600
+    },
+    "Ivory Coast": {
+      "iso_a2": "CI",
+      "loc_count": 0
+    },
+    "Cocos (Keeling) Islands": {
+      "iso_a2": "CC",
+      "loc_count": 14
+    },
+    "Kuwait": {
+      "iso_a2": "KW",
+      "loc_count": 0
+    },
+    "Niger": {
+      "iso_a2": "NE",
+      "loc_count": 0
+    },
+    "Guyana": {
+      "iso_a2": "GY",
+      "loc_count": 0
+    },
+    "Burundi": {
+      "iso_a2": "BI",
+      "loc_count": 0
+    },
+    "Oman": {
+      "iso_a2": "OM",
+      "loc_count": 950
+    },
+    "Western Sahara": {
+      "iso_a2": "EH",
+      "loc_count": 0
+    },
+    "Netherlands": {
+      "iso_a2": "NL",
+      "loc_count": 550
+    },
+    "Guatemala": {
+      "iso_a2": "GT",
+      "loc_count": 350
+    },
+    "Åland": {
+      "iso_a2": "AX",
+      "loc_count": 16
+    },
+    "Pakistan": {
+      "iso_a2": "PK",
+      "loc_count": 16
+    },
+    "Yemen": {
+      "iso_a2": "YE",
+      "loc_count": 0
+    },
+    "Mauritania": {
+      "iso_a2": "MR",
+      "loc_count": 0
+    },
+    "Slovenia": {
+      "iso_a2": "SI",
+      "loc_count": 225
+    },
+    "The Bahamas": {
+      "iso_a2": "BS",
+      "loc_count": 0
+    },
+    "Myanmar": {
+      "iso_a2": "MM",
+      "loc_count": 0
+    },
+    "Ethiopia": {
+      "iso_a2": "ET",
+      "loc_count": 0
+    },
+    "Tajikistan": {
+      "iso_a2": "TJ",
+      "loc_count": 0
+    },
+    "Bouvet Island": {
+      "iso_a2": "BV",
+      "loc_count": 0
+    },
+    "Uganda": {
+      "iso_a2": "UG",
+      "loc_count": 100
+    },
+    "Estonia": {
+      "iso_a2": "EE",
+      "loc_count": 425
+    },
+    "Senegal": {
+      "iso_a2": "SN",
+      "loc_count": 550
+    },
+    "North Korea": {
+      "iso_a2": "KP",
+      "loc_count": 0
+    },
+    "Guinea-Bissau": {
+      "iso_a2": "GW",
+      "loc_count": 0
+    },
+    "Belgium": {
+      "iso_a2": "BE",
+      "loc_count": 425
+    },
+    "US Virgin Islands": {
+      "iso_a2": "VI",
+      "loc_count": 50
+    },
+    "French Southern and Antarctic Lands": {
+      "iso_a2": "TF",
+      "loc_count": 0
+    },
+    "Belarus": {
+      "iso_a2": "BY",
+      "loc_count": 2
+    },
+    "Cabo Verde": {
+      "iso_a2": "CV",
+      "loc_count": 0
+    },
+    "Comoros": {
+      "iso_a2": "KM",
+      "loc_count": 0
+    },
+    "South Georgia and the Islands": {
+      "iso_a2": "GS",
+      "loc_count": 2
+    },
+    "Zimbabwe": {
+      "iso_a2": "ZW",
+      "loc_count": 0
+    },
+    "Marshall Islands": {
+      "iso_a2": "MH",
+      "loc_count": 0
+    },
+    "Grenada": {
+      "iso_a2": "GD",
+      "loc_count": 0
+    },
+    "China": {
+      "iso_a2": "CN",
+      "loc_count": 0
+    },
+    "French Guiana": {
+      "iso_a2": "GF",
+      "loc_count": 0
+    },
+    "Denmark": {
+      "iso_a2": "DK",
+      "loc_count": 550
+    },
+    "Iceland": {
+      "iso_a2": "IS",
+      "loc_count": 450
+    },
+    "Svalbard and Jan Mayen": {
+      "iso_a2": "SJ",
+      "loc_count": 14
+    },
+    "Jamaica": {
+      "iso_a2": "JM",
+      "loc_count": 0
+    },
+    "Democratic Republic of the Congo": {
+      "iso_a2": "CD",
+      "loc_count": 0
+    },
+    "Monaco": {
+      "iso_a2": "MC",
+      "loc_count": 5
+    },
+    "Liechtenstein": {
+      "iso_a2": "LI",
+      "loc_count": 16
+    },
+    "Syria": {
+      "iso_a2": "SY",
+      "loc_count": 0
+    },
+    "British Indian Ocean Territory": {
+      "iso_a2": "IO",
+      "loc_count": 0
+    },
+    "Armenia": {
+      "iso_a2": "AM",
+      "loc_count": 0
+    },
+    "Republic of the Congo": {
+      "iso_a2": "CG",
+      "loc_count": 0
+    },
+    "Saint Vincent and the Grenadines": {
+      "iso_a2": "VC",
+      "loc_count": 0
+    },
+    "Jordan": {
+      "iso_a2": "JO",
+      "loc_count": 100
+    },
+    "Finland": {
+      "iso_a2": "FI",
+      "loc_count": 1000
+    },
+    "Luxembourg": {
+      "iso_a2": "LU",
+      "loc_count": 90
+    },
+    "Cambodia": {
+      "iso_a2": "KH",
+      "loc_count": 800
+    },
+    "Guadeloupe": {
+      "iso_a2": "GP",
+      "loc_count": 0
+    },
+    "San Marino": {
+      "iso_a2": "SM",
+      "loc_count": 18
+    },
+    "Clipperton Island": {
+      "iso_a2": "CP",
+      "loc_count": 0
+    },
+    "Saint Pierre and Miquelon": {
+      "iso_a2": "PM",
+      "loc_count": 6
+    },
+    "Malta": {
+      "iso_a2": "MT",
+      "loc_count": 50
+    },
+    "Nauru": {
+      "iso_a2": "NR",
+      "loc_count": 0
+    },
+    "Greenland": {
+      "iso_a2": "GL",
+      "loc_count": 70
+    }
+  },
+  "subdivisions": {
+    "BR": {
+      "Federal District": 18,
+      "Sergipe": 100,
+      "Rio de Janeiro": 165,
+      "Rio Grande do Norte": 150,
+      "Pernambuco": 225,
+      "Paraná": 475,
+      "Tocantins": 325,
+      "Pará": 350,
+      "Alagoas": 100,
+      "Rio Grande do Sul": 450,
+      "Maranhão": 325,
+      "Amazonas (BR)": 110,
+      "Espírito Santo": 150,
+      "Roraima": 135,
+      "Acre": 90,
+      "Mato Grosso do Sul": 400,
+      "Piauí": 275,
+      "Mato Grosso": 550,
+      "Goiás": 500,
+      "Santa Catarina": 275,
+      "Rondônia": 165,
+      "Bahia": 700,
+      "Amapá": 70,
+      "Minas Gerais": 850,
+      "São Paulo": 550,
+      "Ceará": 300,
+      "Paraíba": 165
+    },
+    "MX": {
+      "Mexico City": 20,
+      "Campeche": 180,
+      "Coahuila": 165,
+      "Tamaulipas": 180,
+      "Morelos": 50,
+      "Guanajuato": 180,
+      "Guerrero": 200,
+      "Baja California Sur": 120,
+      "Chiapas": 250,
+      "Tlaxcala": 45,
+      "Tabasco": 135,
+      "Michoacán": 200,
+      "Baja California": 135,
+      "Nuevo León": 180,
+      "Querétaro": 90,
+      "Durango": 200,
+      "Sinaloa": 135,
+      "Sonora": 225,
+      "Zacatecas": 225,
+      "Jalisco": 250,
+      "San Luis Potosí": 200,
+      "Colima": 60,
+      "Nayarit": 100,
+      "Quintana Roo": 135,
+      "Oaxaca": 275,
+      "Puebla": 180,
+      "State of Mexico": 120,
+      "Yucatan": 150,
+      "Hidalgo": 120,
+      "Veracruz": 275,
+      "Aguascalientes": 60,
+      "Chihuahua": 250
+    },
+    "IR": {
+      "Iran": 0
+    },
+    "KZ": {
+      "Mangystau": 35,
+      "Turkistan": 50,
+      "Aktobe": 50,
+      "West Kazakhstan": 30,
+      "Kostanay": 35,
+      "Almaty (City)": 35,
+      "Ulytau": 22,
+      "Pavlodar": 40,
+      "Akmola": 100,
+      "Jetisu": 35,
+      "Abai Region": 35,
+      "Atyrau": 35,
+      "Jambyl": 25,
+      "North Kazakhstan": 35,
+      "Kyzylorda": 30,
+      "East Kazakhstan": 35,
+      "Karaganda": 60,
+      "Almaty (Region)": 30,
+      "Astana": 25,
+      "Shymkent": 40
+    },
+    "AR": {
+      "Jujuy": 135,
+      "Río Negro": 180,
+      "Tucumán": 100,
+      "Santiago del Estero": 135,
+      "Entre Ríos": 150,
+      "Formosa": 100,
+      "Córdoba (AR)": 200,
+      "Chaco": 150,
+      "San Juan": 120,
+      "Buenos Aires": 375,
+      "Santa Cruz": 200,
+      "Tierra del Fuego": 40,
+      "Salta": 165,
+      "San Luis": 135,
+      "Catamarca": 135,
+      "Mendoza": 150,
+      "Misiones": 120,
+      "Neuquén": 150,
+      "La Rioja (AR)": 110,
+      "Buenos Aires City": 9,
+      "Corrientes": 150,
+      "Santa Fe": 200,
+      "Chubut": 200,
+      "La Pampa": 110
+    },
+    "NF": {
+      "Norfolk Island": 0
+    },
+    "AZ": {
+      "Azerbaijan": 0
+    },
+    "EC": {
+      "Ecuador Mainland": 600,
+      "Galápagos": 2
+    },
+    "FK": {
+      "Falkland Islands": 3
+    },
+    "RU": {
+      "Irkutsk Oblast": 90,
+      "Novosibirsk Oblast": 90,
+      "Astrakhan Oblast": 60,
+      "Ryazan Oblast": 70,
+      "Ulyanovsk Oblast": 60,
+      "Arkhangelsk Oblast": 120,
+      "Tula Oblast": 60,
+      "Tver Oblast": 90,
+      "Murmansk Oblast": 90,
+      "Yamalo-Nenets Autonomous Okrug": 70,
+      "Saratov Oblast": 80,
+      "Magadan Oblast": 30,
+      "Khabarovsk Krai": 35,
+      "Chechnya": 35,
+      "Zabaykalsky Krai": 45,
+      "Karachay-Cherkessia": 35,
+      "Penza Oblast": 60,
+      "Nenets Autonomous Okrug": 2,
+      "Bryansk Oblast": 70,
+      "Adygea": 30,
+      "Jewish Autonomous Oblast": 12,
+      "Altai Krai": 80,
+      "Kursk Oblast": 50,
+      "Moscow, City of": 20,
+      "Mari El": 30,
+      "Kemerovo Oblast": 90,
+      "Krasnodar Krai": 135,
+      "Kirov Oblast": 70,
+      "Tuva": 30,
+      "Rostov Oblast": 100,
+      "Karelia, Republic of": 80,
+      "Perm Krai": 90,
+      "Mordovia": 45,
+      "Komi Republic": 100,
+      "Tyumen Oblast": 70,
+      "Khanty-Mansi Autonomous Okrug": 100,
+      "Omsk Oblast": 110,
+      "Tomsk Oblast": 90,
+      "Chuvashia": 45,
+      "Pskov Oblast": 60,
+      "Krasnoyarsk Krai": 80,
+      "Tatarstan": 100,
+      "Sverdlovsk Oblast": 110,
+      "Yaroslavl Oblast": 50,
+      "Vologda Oblast": 50,
+      "Orenburg Oblast": 70,
+      "Khakassia": 45,
+      "Kurgan Oblast": 50,
+      "Lipetsk Oblast": 60,
+      "Smolensk Oblast": 60,
+      "Samara Oblast": 70,
+      "Kaluga Oblast": 60,
+      "Udmurtia": 60,
+      "Chelyabinsk Oblast": 120,
+      "Belgorod Oblast": 60,
+      "Kostroma Oblast": 40,
+      "Leningrad Oblast": 120,
+      "Oryol Oblast": 50,
+      "Novgorod Oblast": 60,
+      "Kabardino-Balkaria": 45,
+      "Kamchatka Krai": 30,
+      "North Ossetia-Alania": 35,
+      "Volgograd Oblast": 80,
+      "Chukotka": 0,
+      "Kaliningrad Oblast": 80,
+      "Kalmykia": 45,
+      "Saint Petersburg": 14,
+      "Dagestan": 80,
+      "Sakhalin Oblast": 70,
+      "Vladimir Oblast": 60,
+      "Sakha Republic": 110,
+      "Ingushetia": 10,
+      "Nizhny Novgorod Oblast": 90,
+      "Stavropol Krai": 80,
+      "Altai Republic": 30,
+      "Buryatia": 150,
+      "Moscow Oblast": 135,
+      "Primorsky Krai": 100,
+      "Amur Oblast": 50,
+      "Bashkortostan": 120,
+      "Ivanovo Oblast": 40,
+      "Voronezh Oblast": 80,
+      "Tambov Oblast": 60
+    },
+    "CF": {
+      "Central African Republic": 0
+    },
+    "US": {
+      "Maryland": 110,
+      "West Virginia": 150,
+      "Maine": 165,
+      "Idaho": 325,
+      "Colorado": 350,
+      "Illinois": 200,
+      "Indiana": 180,
+      "Mississippi": 180,
+      "Nebraska": 250,
+      "New Jersey": 100,
+      "Michigan": 225,
+      "Connecticut": 80,
+      "Rhode Island": 35,
+      "North Dakota": 225,
+      "Texas": 700,
+      "Kansas": 225,
+      "Montana": 450,
+      "Florida": 275,
+      "California": 700,
+      "Kentucky": 180,
+      "Virginia": 200,
+      "Ohio": 225,
+      "Wisconsin": 200,
+      "Arkansas": 200,
+      "North Carolina": 200,
+      "Missouri": 250,
+      "New York": 300,
+      "New Hampshire": 100,
+      "Vermont": 90,
+      "Oklahoma": 250,
+      "District of Columbia": 6,
+      "Pennsylvania": 250,
+      "Minnesota": 250,
+      "Utah": 325,
+      "Wyoming": 325,
+      "New Mexico": 375,
+      "Tennessee": 200,
+      "Alaska": 135,
+      "South Carolina": 150,
+      "South Dakota": 225,
+      "Oregon": 350,
+      "Louisiana": 165,
+      "Arizona": 400,
+      "Georgia (US)": 225,
+      "Iowa": 180,
+      "Delaware": 40,
+      "Hawaii": 150,
+      "Washington": 325,
+      "Massachusetts": 120,
+      "Alabama": 180,
+      "Nevada": 275
+    },
+    "MD": {
+      "Moldova": 0
+    },
+    "DE": {
+      "Saxony": 135,
+      "Saxony-Anhalt": 120,
+      "Bremen": 9,
+      "Baden-Württemberg": 250,
+      "Mecklenburg-Vorpommern": 150,
+      "Brandenburg": 165,
+      "Thuringia": 110,
+      "Lower Saxony": 275,
+      "Rhineland-Palatinate": 135,
+      "Hamburg": 16,
+      "Bavaria": 425,
+      "Schleswig-Holstein": 120,
+      "Berlin": 20,
+      "North Rhine-Westphalia": 300,
+      "Saarland": 25,
+      "Hessen": 120
+    },
+    "IL": {
+      "Golan Heights": 25,
+      "Israel": 275
+    },
+    "IQ": {
+      "Iraq": 0
+    },
+    "GU": {
+      "Guam": 35
+    },
+    "PH": {
+      "Davao Region": 135,
+      "Cordillera Administrative Region": 90,
+      "Palawan": 90,
+      "Bangsamoro": 25,
+      "Bicol Region": 165,
+      "Central Luzon": 200,
+      "Calabarzon": 200,
+      "Negros Island": 150,
+      "Eastern Visayas": 120,
+      "Central Visayas": 150,
+      "Cagayan Valley": 150,
+      "Northern Mindanao": 135,
+      "Ilocos Region": 180,
+      "Zamboanga Peninsula": 70,
+      "Mindoro, Marinduque & Romblon": 80,
+      "Caraga": 70,
+      "Panay": 135,
+      "Metro Manila": 16,
+      "Soccskargen": 135
+    },
+    "CO": {
+      "Meta": 100,
+      "Tolima": 90,
+      "Cesar": 60,
+      "Vaupés": 0,
+      "Valle del Cauca": 100,
+      "Amazonas (CO)": 2,
+      "Guainía": 0,
+      "Casanare": 110,
+      "La Guajira": 60,
+      "Quindío": 35,
+      "Santander": 120,
+      "Guaviare": 7,
+      "San Andrés y Providencia": 14,
+      "Huila": 80,
+      "Atlántico": 45,
+      "Bolívar": 70,
+      "Córdoba (CO)": 80,
+      "Cundinamarca": 135,
+      "Chocó": 25,
+      "Risaralda": 40,
+      "Putumayo": 25,
+      "Vichada": 8,
+      "Cauca": 60,
+      "Magdalena": 50,
+      "Boyacá": 100,
+      "Arauca": 18,
+      "Nariño": 80,
+      "Caquetá": 20,
+      "Bogota": 30,
+      "Norte de Santander": 70,
+      "Sucre": 60,
+      "Antioquia": 180,
+      "Caldas": 50
+    },
+    "ER": {
+      "Eritrea": 0
+    },
+    "GB": {
+      "Scotland": 500,
+      "North East England": 100,
+      "West Midlands": 135,
+      "East Midlands": 135,
+      "South West England": 200,
+      "South East England": 180,
+      "Yorkshire and the Humber": 150,
+      "East of England": 165,
+      "Northern Ireland": 150,
+      "Wales": 225,
+      "North West England": 150,
+      "London": 22
+    },
+    "IN": {
+      "Gujarat": 475,
+      "Chhattisgarh": 250,
+      "Uttarakhand": 120,
+      "Tamil Nadu": 450,
+      "West Bengal": 325,
+      "Sikkim": 30,
+      "Andaman and Nicobar Islands": 45,
+      "Lakshadweep": 10,
+      "Odisha": 300,
+      "Puducherry": 14,
+      "Chandigarh": 5,
+      "Arunachal Pradesh": 80,
+      "Uttar Pradesh": 650,
+      "Ladakh": 18,
+      "Assam": 225,
+      "Nagaland": 2,
+      "Himachal Pradesh": 70,
+      "Mizoram": 40,
+      "Delhi": 14,
+      "Karnataka": 550,
+      "Meghalaya": 80,
+      "Andhra Pradesh": 400,
+      "Kerala": 150,
+      "Jammu and Kashmir": 30,
+      "Telangana": 325,
+      "Rajasthan": 750,
+      "Jharkhand": 225,
+      "Maharashtra": 750,
+      "Manipur": 20,
+      "Dadra and Nagar Haveli and Daman and Diu": 12,
+      "Madhya Pradesh": 700,
+      "Bihar": 325,
+      "Goa": 40,
+      "Haryana": 135,
+      "Punjab": 200,
+      "Tripura": 45
+    },
+    "PW": {
+      "Palau": 0
+    },
+    "IT": {
+      "Sardinia": 225,
+      "Molise": 40,
+      "Lombardy": 180,
+      "Lazio": 150,
+      "Sicily": 250,
+      "Friuli-Venezia Giulia": 60,
+      "Tuscany": 180,
+      "Liguria": 45,
+      "Abruzzo": 90,
+      "Aosta Valley": 30,
+      "Piedmont": 180,
+      "Trentino-Alto Adige/Südtirol": 110,
+      "Basilicata": 70,
+      "Emilia-Romagna": 165,
+      "Veneto": 135,
+      "Campania": 120,
+      "Apulia": 150,
+      "Umbria": 60,
+      "Calabria": 135,
+      "Marche": 80
+    },
+    "PS": {
+      "Gaza Strip": 0,
+      "West Bank": 80,
+      "Bethlehem/Jericho/Ramallah": 25
+    },
+    "ID": {
+      "Yogyakarta": 40,
+      "South Kalimantan": 150,
+      "Jambi": 135,
+      "North Maluku": 80,
+      "Lampung": 200,
+      "Aceh": 40,
+      "North Sulawesi": 150,
+      "South Sumatra": 200,
+      "West Sumatra": 180,
+      "Bali": 135,
+      "Gorontalo": 70,
+      "East Nusa Tenggara": 350,
+      "Riau Islands": 60,
+      "Papua": 0,
+      "West Sulawesi": 70,
+      "East Java": 400,
+      "West Java": 300,
+      "Banten": 110,
+      "East Kalimantan": 150,
+      "Jakarta": 14,
+      "West Kalimantan": 225,
+      "Bangka Belitung": 90,
+      "Central Sulawesi": 225,
+      "North Sumatra": 300,
+      "Maluku": 0,
+      "Kalimantan Utara": 60,
+      "South Sulawesi": 275,
+      "West Papua": 0,
+      "South East Sulawesi": 165,
+      "Riau": 225,
+      "Bengkulu": 80,
+      "Central Java": 300,
+      "Central Kalimantan": 165,
+      "West Nusa Tenggara": 200
+    },
+    "KE": {
+      "Eastern Kenya": 70,
+      "Northern Kenya": 60,
+      "Western Kenya": 250,
+      "Nairobi": 20,
+      "Coastal Region": 120,
+      "Central Kenya": 225,
+      "Nyanza": 225,
+      "Maasailand": 180,
+      "Rift Valley": 165,
+      "Greater Kitui": 200
+    },
+    "LV": {
+      "Latvia": 450
+    },
+    "CR": {
+      "Costa Rica": 375
+    },
+    "MY": {
+      "Terengganu": 100,
+      "Negeri Sembilan": 80,
+      "Pahang": 180,
+      "Perak": 120,
+      "Kelantan": 90,
+      "Johor": 150,
+      "Putrajaya": 3,
+      "Kedah": 80,
+      "Selangor": 80,
+      "Sarawak": 275,
+      "Penang": 35,
+      "Sabah": 250,
+      "Malacca": 40,
+      "Perlis": 30,
+      "Kuala Lumpur": 9,
+      "Labuan": 10
+    },
+    "JP": {
+      "Tohoku": 550,
+      "Kyushu": 475,
+      "Shikoku": 180,
+      "Ryukyu Islands": 80,
+      "Kansai": 325,
+      "Hokkaido": 325,
+      "Kanto": 450,
+      "Chugoku": 350,
+      "Chubu": 650
+    },
+    "TH": {
+      "Western Thailand": 200,
+      "Eastern Thailand": 200,
+      "Central Thailand": 550,
+      "Southern Thailand": 425,
+      "Northern Thailand": 450,
+      "Northeastern Thailand": 750
+    },
+    "XK": {
+      "Kosovo": 0
+    },
+    "ES": {
+      "Aragon": 250,
+      "Castile and Leon": 400,
+      "Extremadura": 225,
+      "Castile-La Mancha": 350,
+      "Basque Country": 90,
+      "Galicia": 200,
+      "Valencian Community": 200,
+      "Andalusia": 350,
+      "Asturias": 100,
+      "La Rioja (ES)": 45,
+      "Balearic Islands": 100,
+      "Ceuta": 14,
+      "Melilla": 14,
+      "Canary Islands": 200,
+      "Cantabria": 70,
+      "Navarre": 100,
+      "Murcia": 100,
+      "Community of Madrid": 70,
+      "Catalonia": 225
+    },
+    "MP": {
+      "Northern Mariana Islands": 30
+    },
+    "GR": {
+      "Macedonia and Thrace": 275,
+      "Crete": 80,
+      "Peloponnese, Western Greece and the Ionian": 300,
+      "Mount Athos": 0,
+      "Thessaly and Central Greece": 225,
+      "Aegean (GR)": 120,
+      "Attica": 60,
+      "Epirus and Western Macedonia": 135
+    },
+    "SE": {
+      "Götaland": 700,
+      "Svealand": 500,
+      "Norrland": 650
+    },
+    "PL": {
+      "Masovia": 225,
+      "West Pomerania": 110,
+      "Warmia-Masuria": 110,
+      "Lubusz": 70,
+      "Pomerania": 90,
+      "Lower Silesia": 120,
+      "Lesser Poland": 150,
+      "Lublin": 120,
+      "Greater Poland": 200,
+      "Kuyavia-Pomerania": 135,
+      "Silesia": 120,
+      "Opole": 60,
+      "Świętokrzyskie": 80,
+      "Podlaskie": 100,
+      "Łódź": 110,
+      "Subcarpathia": 135
+    },
+    "CA": {
+      "Québec": 800,
+      "Ontario": 900,
+      "British Columbia": 700,
+      "Nunavut": 10,
+      "Northwest Territories": 45,
+      "Nova Scotia": 325,
+      "Yukon": 60,
+      "Newfoundland & Labrador": 275,
+      "New Brunswick": 325,
+      "Manitoba": 375,
+      "Saskatchewan": 500,
+      "Alberta": 650,
+      "Prince Edward Island": 80
+    },
+    "ML": {
+      "Mali": 0
+    },
+    "PE": {
+      "San Martin": 110,
+      "Lambayeque": 70,
+      "La Libertad": 135,
+      "Madre de Dios": 35,
+      "Junin": 110,
+      "Ayacucho": 90,
+      "Tacna": 60,
+      "Callao": 8,
+      "Ica": 90,
+      "Moquegua": 60,
+      "Puno": 135,
+      "Huancavelica": 70,
+      "Ucayali": 35,
+      "Apurimac": 50,
+      "Huanuco": 80,
+      "Arequipa": 180,
+      "Pasco": 40,
+      "Cusco": 120,
+      "Cajamarca": 120,
+      "Ancash": 135,
+      "Lima Province": 35,
+      "Lima Region": 180,
+      "Loreto": 16,
+      "Piura": 135,
+      "Tumbes": 30,
+      "Amazonas (PE)": 60
+    },
+    "PT": {
+      "Azores": 50,
+      "Mainland Portugal": 750,
+      "Madeira": 40
+    },
+    "FR": {
+      "Normandy": 165,
+      "Auvergne-Rhône-Alpes": 400,
+      "Bourgogne-Franche-Comté": 250,
+      "Hauts-de-France": 180,
+      "Île-de-France": 100,
+      "Corsica": 80,
+      "Pays de la Loire": 165,
+      "Nouvelle-Aquitaine": 400,
+      "Grand Est": 300,
+      "Brittany": 165,
+      "Provence-Alpes-Côte d'Azur": 180,
+      "Occitania": 350,
+      "Centre-Val de Loire": 180
+    },
+    "BT": {
+      "Bhutan": 135
+    },
+    "KN": {
+      "Saint Kitts and Nevis": 0
+    },
+    "TR": {
+      "Black Sea": 450,
+      "Central Anatolia": 650,
+      "Marmara": 500,
+      "Mediterranean": 375,
+      "Aegean": 400,
+      "Southeastern Anatolia": 300,
+      "Eastern Anatolia": 425
+    },
+    "KY": {
+      "Cayman Islands": 0
+    },
+    "CM": {
+      "Cameroon": 0
+    },
+    "AI": {
+      "Anguilla": 0
+    },
+    "HR": {
+      "Croatia": 550
+    },
+    "BL": {
+      "Saint Barthélemy": 0
+    },
+    "CL": {
+      "O'Higgins": 90,
+      "Valparaíso": 135,
+      "Ñuble": 80,
+      "Antofagasta": 200,
+      "Arica y Parinacota": 70,
+      "Aysén": 150,
+      "Magallanes": 60,
+      "Maule": 150,
+      "Biobío": 100,
+      "Atacama": 200,
+      "La Araucanía": 135,
+      "Coquimbo": 165,
+      "Los Ríos": 100,
+      "Santiago Metropolitan Region": 100,
+      "Los Lagos": 225,
+      "Tarapacá": 110
+    },
+    "BM": {
+      "Bermuda": 22
+    },
+    "PF": {
+      "French Polynesia": 0
+    },
+    "DO": {
+      "Dominican Republic": 70
+    },
+    "SL": {
+      "Sierra Leone": 0
+    },
+    "TO": {
+      "Tonga": 0
+    },
+    "KI": {
+      "Kiribati": 0
+    },
+    "GI": {
+      "Gibraltar": 8
+    },
+    "DJ": {
+      "Djibouti": 0
+    },
+    "BD": {
+      "Dhaka": 225,
+      "Barisal": 90,
+      "Sylhet": 110,
+      "Khulna": 200,
+      "Mymensingh": 110,
+      "Rajshahi": 135,
+      "Chittagong": 200,
+      "Rangpur": 135
+    },
+    "AU": {
+      "Northern Territory": 200,
+      "Australian Capital Territory": 25,
+      "Victoria": 700,
+      "Tasmania": 350,
+      "Ashmore and Cartier Islands": 0,
+      "Jervis Bay Territory": 0,
+      "South Australia": 650,
+      "Queensland": 950,
+      "New South Wales": 1000,
+      "Western Australia": 900
+    },
+    "CH": {
+      "Switzerland": 475
+    },
+    "UA": {
+      "South/East Ukraine": 275,
+      "Crimea": 0,
+      "West Ukraine": 300,
+      "Central Ukraine": 400
+    },
+    "QA": {
+      "Qatar": 110
+    },
+    "SA": {
+      "Saudi Arabia": 0
+    },
+    "CZ": {
+      "Czechia": 700
+    },
+    "TZ": {
+      "Tanzania": 2
+    },
+    "RO": {
+      "Vest": 200,
+      "Sud-Vest Oltenia": 200,
+      "Centru": 250,
+      "București - Ilfov": 30,
+      "Nord-Vest": 275,
+      "Nord-Est": 275,
+      "Sud-Est": 225,
+      "Sud - Muntenia": 200
+    },
+    "MQ": {
+      "Martinique": 3
+    },
+    "GN": {
+      "Guinea": 0
+    },
+    "MF": {
+      "Saint Martin": 0
+    },
+    "NA": {
+      "Namibia": 750
+    },
+    "LT": {
+      "Lithuania": 475
+    },
+    "NG": {
+      "South East": 165,
+      "North Central": 250,
+      "North East": 135,
+      "South South": 275,
+      "South West": 250,
+      "North West": 180
+    },
+    "LB": {
+      "Lebanon": 14
+    },
+    "BA": {
+      "Bosnia and Herzegovina": 475
+    },
+    "HN": {
+      "Honduras": 0
+    },
+    "BW": {
+      "Botswana": 400
+    },
+    "ZA": {
+      "KwaZulu-Natal": 425,
+      "Mpumalanga": 350,
+      "North West": 350,
+      "Gauteng": 180,
+      "Eastern Cape": 400,
+      "Limpopo": 475,
+      "Free State": 375,
+      "Northern Cape": 550,
+      "Western Cape": 450
+    },
+    "RE": {
+      "Réunion": 80
+    },
+    "BZ": {
+      "Belize": 0
+    },
+    "BJ": {
+      "Benin": 0
+    },
+    "VN": {
+      "South Central Coast": 325,
+      "Red River Delta": 165,
+      "Southeast": 225,
+      "Mekong River Delta": 225,
+      "Northwest": 325,
+      "North Central Coast": 325,
+      "Central Highlands": 375,
+      "Northeast": 350
+    },
+    "ST": {
+      "São Tomé and Principe": 0
+    },
+    "UY": {
+      "Uruguay": 500
+    },
+    "GE": {
+      "Georgia": 0
+    },
+    "LC": {
+      "Saint Lucia": 0
+    },
+    "MW": {
+      "Malawi": 0
+    },
+    "VE": {
+      "Venezuela": 0
+    },
+    "SX": {
+      "Sint Maarten": 0
+    },
+    "BO": {
+      "Bolivia": 400
+    },
+    "AQ": {
+      "Antarctica": 2
+    },
+    "SR": {
+      "Suriname": 0
+    },
+    "GA": {
+      "Gabon": 0
+    },
+    "KG": {
+      "Kyrgyzstan": 180
+    },
+    "CY": {
+      "Northern Cyprus": 0,
+      "Cyprus": 120
+    },
+    "MU": {
+      "Mauritius": 0
+    },
+    "AT": {
+      "Austria": 750
+    },
+    "UM": {
+      "United States Minor Outlying Islands": 2
+    },
+    "DZ": {
+      "Algeria": 0
+    },
+    "TG": {
+      "Togo": 0
+    },
+    "PG": {
+      "Papua New Guinea": 0
+    },
+    "XX": {
+      "Spratly Islands": 0
+    },
+    "SG": {
+      "Singapore": 25
+    },
+    "NZ": {
+      "New Zealand Outlying Islands": 0,
+      "North Island": 800,
+      "South Island": 700
+    },
+    "VU": {
+      "Vanuatu": 3
+    },
+    "IE": {
+      "Ireland": 500
+    },
+    "EG": {
+      "Egypt": 5
+    },
+    "AL": {
+      "Albania": 200
+    },
+    "PN": {
+      "Pitcairn Islands": 3
+    },
+    "PY": {
+      "Paraguay": 425
+    },
+    "TV": {
+      "Tuvalu": 0
+    },
+    "FM": {
+      "Federated States of Micronesia": 0
+    },
+    "AG": {
+      "Antigua and Barbuda": 0
+    },
+    "WS": {
+      "Samoa": 0
+    },
+    "LA": {
+      "Laos": 60
+    },
+    "TM": {
+      "Turkmenistan": 0
+    },
+    "FJ": {
+      "Fiji": 0
+    },
+    "ME": {
+      "Montenegro": 110
+    },
+    "GG": {
+      "Guernsey": 0
+    },
+    "AW": {
+      "Aruba": 0
+    },
+    "LS": {
+      "Lesotho": 135
+    },
+    "SO": {
+      "Somalia": 0,
+      "Somaliland": 0
+    },
+    "AE": {
+      "United Arab Emirates": 120
+    },
+    "AS": {
+      "American Samoa": 25
+    },
+    "MG": {
+      "Madagascar": 14
+    },
+    "LY": {
+      "Libya": 0
+    },
+    "SS": {
+      "South Sudan": 0
+    },
+    "BH": {
+      "Bahrain": 0
+    },
+    "AF": {
+      "Afghanistan": 0
+    },
+    "DM": {
+      "Dominica": 0
+    },
+    "TC": {
+      "Turks and Caicos Islands": 0
+    },
+    "MZ": {
+      "Mozambique": 0
+    },
+    "TL": {
+      "East Timor": 0
+    },
+    "PA": {
+      "Panama": 350
+    },
+    "MA": {
+      "Morocco": 0
+    },
+    "SC": {
+      "Seychelles": 0
+    },
+    "NO": {
+      "Western Norway": 450,
+      "Trøndelag": 250,
+      "Eastern Norway": 500,
+      "Northern Norway": 475,
+      "Southern Norway": 135
+    },
+    "LR": {
+      "Liberia": 0
+    },
+    "NC": {
+      "New Caledonia": 0
+    },
+    "PR": {
+      "Puerto Rico": 135
+    },
+    "BG": {
+      "Bulgaria": 800
+    },
+    "SH": {
+      "Saint Helena": 0
+    },
+    "MO": {
+      "Macau": 12
+    },
+    "GH": {
+      "Ghana": 375
+    },
+    "UZ": {
+      "Uzbekistan": 0
+    },
+    "IM": {
+      "Isle of Man": 18
+    },
+    "TD": {
+      "Chad": 0
+    },
+    "SD": {
+      "Sudan": 0
+    },
+    "SB": {
+      "Solomon Islands": 0
+    },
+    "NI": {
+      "Nicaragua": 0
+    },
+    "WF": {
+      "Wallis and Futuna": 0
+    },
+    "MS": {
+      "Montserrat": 0
+    },
+    "TT": {
+      "Trinidad and Tobago": 0
+    },
+    "MK": {
+      "North Macedonia": 100
+    },
+    "GQ": {
+      "Equatorial Guinea": 0
+    },
+    "HK": {
+      "Hong Kong": 80
+    },
+    "CX": {
+      "Christmas Island": 16
+    },
+    "YT": {
+      "Mayotte": 0
+    },
+    "BN": {
+      "Brunei": 0
+    },
+    "RW": {
+      "Rwanda": 225
+    },
+    "LK": {
+      "Sri Lanka": 650
+    },
+    "JE": {
+      "Jersey": 10
+    },
+    "AO": {
+      "Angola": 0
+    },
+    "SK": {
+      "Slovakia": 550
+    },
+    "VG": {
+      "British Virgin Islands": 0
+    },
+    "SV": {
+      "El Salvador": 0
+    },
+    "NP": {
+      "Nepal": 600
+    },
+    "TN": {
+      "Tunisia": 120
+    },
+    "SZ": {
+      "Eswatini": 120
+    },
+    "CU": {
+      "Cuba": 0
+    },
+    "TW": {
+      "Taiwan": 650,
+      "Penghu, Kinmen & Matsu": 35
+    },
+    "GM": {
+      "Gambia": 0
+    },
+    "FO": {
+      "Faroe Islands": 60
+    },
+    "HU": {
+      "Hungary": 700
+    },
+    "BB": {
+      "Barbados": 0
+    },
+    "RS": {
+      "Republic of Serbia": 300
+    },
+    "MV": {
+      "Maldives": 0
+    },
+    "ZM": {
+      "Zambia": 0
+    },
+    "HT": {
+      "Haiti": 0
+    },
+    "HM": {
+      "Heard Island and McDonald Islands": 0
+    },
+    "BF": {
+      "Burkina Faso": 0
+    },
+    "NU": {
+      "Niue": 0
+    },
+    "CW": {
+      "Curaçao": 40
+    },
+    "CK": {
+      "Cook Islands": 0
+    },
+    "AD": {
+      "Andorra": 18
+    },
+    "KR": {
+      "South Korea": 600
+    },
+    "MN": {
+      "Mongolia": 600
+    },
+    "CI": {
+      "Ivory Coast": 0
+    },
+    "CC": {
+      "Cocos (Keeling) Islands": 14
+    },
+    "KW": {
+      "Kuwait": 0
+    },
+    "NE": {
+      "Niger": 0
+    },
+    "GY": {
+      "Guyana": 0
+    },
+    "BI": {
+      "Burundi": 0
+    },
+    "OM": {
+      "Oman": 950
+    },
+    "EH": {
+      "Western Sahara": 0
+    },
+    "NL": {
+      "Netherlands": 550
+    },
+    "GT": {
+      "Guatemala": 350
+    },
+    "AX": {
+      "Åland": 16
+    },
+    "PK": {
+      "Pakistan": 16
+    },
+    "YE": {
+      "Yemen": 0
+    },
+    "MR": {
+      "Mauritania": 0
+    },
+    "SI": {
+      "Slovenia": 225
+    },
+    "BS": {
+      "The Bahamas": 0
+    },
+    "MM": {
+      "Myanmar": 0
+    },
+    "ET": {
+      "Ethiopia": 0
+    },
+    "TJ": {
+      "Tajikistan": 0
+    },
+    "BV": {
+      "Bouvet Island": 0
+    },
+    "UG": {
+      "Uganda": 100
+    },
+    "EE": {
+      "Estonia": 425
+    },
+    "SN": {
+      "Senegal": 550
+    },
+    "KP": {
+      "North Korea": 0
+    },
+    "GW": {
+      "Guinea-Bissau": 0
+    },
+    "BE": {
+      "Belgium": 425
+    },
+    "VI": {
+      "United States Virgin Islands": 50
+    },
+    "TF": {
+      "French Southern and Antarctic Lands": 0
+    },
+    "BY": {
+      "Belarus": 2
+    },
+    "CV": {
+      "Cabo Verde": 0
+    },
+    "KM": {
+      "Comoros": 0
+    },
+    "GS": {
+      "South Georgia and the Islands": 2
+    },
+    "ZW": {
+      "Zimbabwe": 0
+    },
+    "MH": {
+      "Marshall Islands": 0
+    },
+    "GD": {
+      "Grenada": 0
+    },
+    "CN": {
+      "China": 0
+    },
+    "GF": {
+      "French Guiana": 0
+    },
+    "DK": {
+      "Denmark": 550
+    },
+    "IS": {
+      "Iceland": 450
+    },
+    "SJ": {
+      "Svalbard and Jan Mayen": 14
+    },
+    "JM": {
+      "Jamaica": 0
+    },
+    "CD": {
+      "Democratic Republic of the Congo": 0
+    },
+    "MC": {
+      "Monaco": 5
+    },
+    "LI": {
+      "Liechtenstein": 16
+    },
+    "SY": {
+      "Syria": 0
+    },
+    "IO": {
+      "British Indian Ocean Territory": 0
+    },
+    "AM": {
+      "Armenia": 0
+    },
+    "CG": {
+      "Republic of the Congo": 0
+    },
+    "VC": {
+      "Saint Vincent and the Grenadines": 0
+    },
+    "JO": {
+      "Jordan": 100
+    },
+    "FI": {
+      "Finland": 1000
+    },
+    "LU": {
+      "Luxembourg": 90
+    },
+    "KH": {
+      "Cambodia": 800
+    },
+    "GP": {
+      "Guadeloupe": 0
+    },
+    "SM": {
+      "San Marino": 18
+    },
+    "CP": {
+      "Clipperton Island": 0
+    },
+    "PM": {
+      "Saint Pierre and Miquelon": 6
+    },
+    "MT": {
+      "Malta": 50
+    },
+    "NR": {
+      "Nauru": 0
+    },
+    "GL": {
+      "Greenland": 70
+    }
+  },
+  "country_totals": {
+    "BR": 7968,
+    "MX": 5090,
+    "IR": 0,
+    "KZ": 782,
+    "AR": 3519,
+    "NF": 0,
+    "AZ": 0,
+    "EC": 602,
+    "FK": 3,
+    "RU": 5538,
+    "CF": 0,
+    "US": 11771,
+    "MD": 0,
+    "DE": 2375,
+    "IL": 300,
+    "IQ": 0,
+    "GU": 35,
+    "PH": 2296,
+    "CO": 1924,
+    "ER": 0,
+    "GB": 2112,
+    "IN": 7860,
+    "PW": 0,
+    "IT": 2455,
+    "PS": 105,
+    "ID": 5144,
+    "KE": 1515,
+    "LV": 450,
+    "CR": 375,
+    "MY": 1532,
+    "JP": 3385,
+    "TH": 2575,
+    "XK": 0,
+    "ES": 3103,
+    "MP": 30,
+    "GR": 1195,
+    "SE": 1850,
+    "PL": 1935,
+    "CA": 5045,
+    "ML": 0,
+    "PE": 2189,
+    "PT": 840,
+    "FR": 2915,
+    "BT": 135,
+    "KN": 0,
+    "TR": 3100,
+    "KY": 0,
+    "CM": 0,
+    "AI": 0,
+    "HR": 550,
+    "BL": 0,
+    "CL": 2070,
+    "BM": 22,
+    "PF": 0,
+    "DO": 70,
+    "SL": 0,
+    "TO": 0,
+    "KI": 0,
+    "GI": 8,
+    "DJ": 0,
+    "BD": 1205,
+    "AU": 4775,
+    "CH": 475,
+    "UA": 975,
+    "QA": 110,
+    "SA": 0,
+    "CZ": 700,
+    "TZ": 2,
+    "RO": 1655,
+    "MQ": 3,
+    "GN": 0,
+    "MF": 0,
+    "NA": 750,
+    "LT": 475,
+    "NG": 1255,
+    "LB": 14,
+    "BA": 475,
+    "HN": 0,
+    "BW": 400,
+    "ZA": 3555,
+    "RE": 80,
+    "BZ": 0,
+    "BJ": 0,
+    "VN": 2315,
+    "ST": 0,
+    "UY": 500,
+    "GE": 0,
+    "LC": 0,
+    "MW": 0,
+    "VE": 0,
+    "SX": 0,
+    "BO": 400,
+    "AQ": 2,
+    "SR": 0,
+    "GA": 0,
+    "KG": 180,
+    "CY": 120,
+    "MU": 0,
+    "AT": 750,
+    "UM": 2,
+    "DZ": 0,
+    "TG": 0,
+    "PG": 0,
+    "XX": 0,
+    "SG": 25,
+    "NZ": 1500,
+    "VU": 3,
+    "IE": 500,
+    "EG": 5,
+    "AL": 200,
+    "PN": 3,
+    "PY": 425,
+    "TV": 0,
+    "FM": 0,
+    "AG": 0,
+    "WS": 0,
+    "LA": 60,
+    "TM": 0,
+    "FJ": 0,
+    "ME": 110,
+    "GG": 0,
+    "AW": 0,
+    "LS": 135,
+    "SO": 0,
+    "AE": 120,
+    "AS": 25,
+    "MG": 14,
+    "LY": 0,
+    "SS": 0,
+    "BH": 0,
+    "AF": 0,
+    "DM": 0,
+    "TC": 0,
+    "MZ": 0,
+    "TL": 0,
+    "PA": 350,
+    "MA": 0,
+    "SC": 0,
+    "NO": 1810,
+    "LR": 0,
+    "NC": 0,
+    "PR": 135,
+    "BG": 800,
+    "SH": 0,
+    "MO": 12,
+    "GH": 375,
+    "UZ": 0,
+    "IM": 18,
+    "TD": 0,
+    "SD": 0,
+    "SB": 0,
+    "NI": 0,
+    "WF": 0,
+    "MS": 0,
+    "TT": 0,
+    "MK": 100,
+    "GQ": 0,
+    "HK": 80,
+    "CX": 16,
+    "YT": 0,
+    "BN": 0,
+    "RW": 225,
+    "LK": 650,
+    "JE": 10,
+    "AO": 0,
+    "SK": 550,
+    "VG": 0,
+    "SV": 0,
+    "NP": 600,
+    "TN": 120,
+    "SZ": 120,
+    "CU": 0,
+    "TW": 685,
+    "GM": 0,
+    "FO": 60,
+    "HU": 700,
+    "BB": 0,
+    "RS": 300,
+    "MV": 0,
+    "ZM": 0,
+    "HT": 0,
+    "HM": 0,
+    "BF": 0,
+    "NU": 0,
+    "CW": 40,
+    "CK": 0,
+    "AD": 18,
+    "KR": 600,
+    "MN": 600,
+    "CI": 0,
+    "CC": 14,
+    "KW": 0,
+    "NE": 0,
+    "GY": 0,
+    "BI": 0,
+    "OM": 950,
+    "EH": 0,
+    "NL": 550,
+    "GT": 350,
+    "AX": 16,
+    "PK": 16,
+    "YE": 0,
+    "MR": 0,
+    "SI": 225,
+    "BS": 0,
+    "MM": 0,
+    "ET": 0,
+    "TJ": 0,
+    "BV": 0,
+    "UG": 100,
+    "EE": 425,
+    "SN": 550,
+    "KP": 0,
+    "GW": 0,
+    "BE": 425,
+    "VI": 50,
+    "TF": 0,
+    "BY": 2,
+    "CV": 0,
+    "KM": 0,
+    "GS": 2,
+    "ZW": 0,
+    "MH": 0,
+    "GD": 0,
+    "CN": 0,
+    "GF": 0,
+    "DK": 550,
+    "IS": 450,
+    "SJ": 14,
+    "JM": 0,
+    "CD": 0,
+    "MC": 5,
+    "LI": 16,
+    "SY": 0,
+    "IO": 0,
+    "AM": 0,
+    "CG": 0,
+    "VC": 0,
+    "JO": 100,
+    "FI": 1000,
+    "LU": 90,
+    "KH": 800,
+    "GP": 0,
+    "SM": 18,
+    "CP": 0,
+    "PM": 6,
+    "MT": 50,
+    "NR": 0,
+    "GL": 70
+  }
+}

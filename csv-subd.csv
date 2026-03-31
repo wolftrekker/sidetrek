@@ -1,0 +1,854 @@
+iso_a2,unit_name,unit_code,loc_count
+BR,Federal District,BR-DF,18
+MX,Mexico City,MX-DF,20
+IR,Iran,IRN,0
+KZ,Mangystau,KZ-MAN,35
+AR,Jujuy,AR-Y,135
+NF,Norfolk Island,NFK,0
+AZ,Azerbaijan,AZE,0
+EC,Ecuador Mainland,EC-E,600
+FK,Falkland Islands,FLK,3
+RU,Irkutsk Oblast,RU-IRK,90
+CF,Central African Republic,CAF,0
+US,Maryland,US-MD,110
+MD,Moldova,MDA,0
+DE,Saxony,DE-SN,135
+IL,Golan Heights,IL-Z,25
+IQ,Iraq,IRQ,0
+US,West Virginia,US-WV,150
+GU,Guam,GUM,35
+PH,Davao Region,PH-DAV,135
+RU,Novosibirsk Oblast,RU-NVS,90
+CO,Meta,CO-MET,100
+ER,Eritrea,ERI,0
+GB,Scotland,GB-SCB,500
+IN,Gujarat,IN-GJ,475
+PW,Palau,PLW,0
+IT,Sardinia,IT-CI,225
+IN,Chhattisgarh,IN-CT,250
+PS,Gaza Strip,PS-GZZ,0
+ID,Yogyakarta,ID-YO,40
+KE,Eastern Kenya,KE-400,70
+LV,Latvia,LVA,450
+ID,South Kalimantan,ID-KS,150
+BR,Sergipe,BR-SE,100
+RU,Astrakhan Oblast,RU-AST,60
+CR,Costa Rica,CRI,375
+MY,Terengganu,MY-11,100
+JP,Tohoku,JP-06,550
+KZ,Turkistan,KZ-YUZ,50
+ID,Jambi,ID-JA,135
+TH,Western Thailand,TH-63,200
+XK,Kosovo,KOS,0
+ES,Aragon,ES-HU,250
+IN,Uttarakhand,IN-UT,120
+US,Maine,US-ME,165
+AR,Río Negro,AR-R,180
+MP,Northern Mariana Islands,MNP,30
+GR,Macedonia and Thrace,GR-B,275
+ID,North Maluku,ID-MU,80
+RU,Ryazan Oblast,RU-RYA,70
+RU,Ulyanovsk Oblast,RU-ULY,60
+SE,Götaland,SE-O,700
+PL,Masovia,PL-MZ,225
+CA,Québec,CA-QC,800
+ID,Lampung,ID-LA,200
+ML,Mali,MLI,0
+PE,San Martin,PE-SAM,110
+PT,Azores,PT-20,50
+FR,Normandy,FR-50,165
+DE,Saxony-Anhalt,DE-ST,120
+BT,Bhutan,BTN,135
+KZ,Aktobe,KZ-AKT,50
+KN,Saint Kitts and Nevis,KNA,0
+IN,Tamil Nadu,IN-TN,450
+TR,Black Sea,TR-08,450
+KY,Cayman Islands,CYM,0
+CM,Cameroon,CMR,0
+BR,Rio de Janeiro,BR-RJ,165
+AI,Anguilla,AIA,0
+FR,Auvergne-Rhône-Alpes,FR-73,400
+HR,Croatia,HRV,550
+BL,Saint Barthélemy,BLM,0
+CL,O'Higgins,CL-LI,90
+CA,Ontario,CA-ON,900
+BM,Bermuda,BMU,22
+JP,Kyushu,JP-46,475
+IN,West Bengal,IN-WB,325
+BR,Rio Grande do Norte,BR-RN,150
+PF,French Polynesia,PYF,0
+JP,Shikoku,JP-36,180
+DO,Dominican Republic,DOM,70
+SL,Sierra Leone,SLE,0
+TO,Tonga,TON,0
+KI,Kiribati,KIR,0
+KE,Northern Kenya,KE-400,60
+GI,Gibraltar,GIB,8
+BR,Pernambuco,BR-PE,225
+CO,Tolima,CO-TOL,90
+ID,Aceh,ID-AC,40
+US,Idaho,US-ID,325
+PL,West Pomerania,PL-ZP,110
+DJ,Djibouti,DJI,0
+CO,Cesar,CO-CES,60
+BD,Dhaka,BD-C,225
+AU,Northern Territory,AU-NT,200
+US,Colorado,US-CO,350
+BR,Paraná,BR-PR,475
+MX,Campeche,MX-CAM,180
+JP,Ryukyu Islands,JP-46,80
+IN,Sikkim,IN-SK,30
+CH,Switzerland,CHE,475
+UA,South/East Ukraine,UA-51,275
+KE,Western Kenya,KE-700,250
+QA,Qatar,QAT,110
+IN,Andaman and Nicobar Islands,IN-AN,45
+FR,Bourgogne-Franche-Comté,FR-90,250
+SA,Saudi Arabia,SAU,0
+US,Illinois,US-IL,200
+RU,Arkhangelsk Oblast,RU-ARK,120
+RU,Tula Oblast,RU-TUL,60
+AR,Tucumán,AR-T,100
+RU,Tver Oblast,RU-TVE,90
+CZ,Czechia,CZE,700
+GB,North East England,GB-NBL,100
+MY,Negeri Sembilan,MY-05,80
+TZ,Tanzania,TZA,2
+PH,Cordillera Administrative Region,PH-BEN,90
+CO,Vaupés,CO-VAU,0
+RO,Vest,RO-AR,200
+ID,North Sulawesi,ID-SA,150
+US,Indiana,US-IN,180
+MQ,Martinique,FR-MQ,3
+BR,Tocantins,BR-TO,325
+MY,Pahang,MY-06,180
+PH,Palawan,PH-PLW,90
+RU,Murmansk Oblast,RU-MUR,90
+GN,Guinea,GIN,0
+ID,South Sumatra,ID-SS,200
+MF,Saint Martin,MAF,0
+US,Mississippi,US-MS,180
+NA,Namibia,NAM,750
+LT,Lithuania,LTU,475
+RU,Yamalo-Nenets Autonomous Okrug,RU-YAN,70
+NG,South East,NG-AB,165
+MX,Coahuila,MX-COA,165
+LB,Lebanon,LBN,14
+CA,British Columbia,CA-BC,700
+PH,Bangsamoro,PH-LAS,25
+IT,Molise,IT-CB,40
+IT,Lombardy,IT-VA,180
+BA,Bosnia and Herzegovina,BIH,475
+HN,Honduras,HND,0
+BW,Botswana,BWA,400
+ZA,KwaZulu-Natal,ZA-NL,425
+RO,Sud-Vest Oltenia,RO-MH,200
+CO,Valle del Cauca,CO-VAC,100
+RU,Saratov Oblast,RU-SAR,80
+AR,Santiago del Estero,AR-G,135
+RE,Réunion,FR-RE,80
+IN,Lakshadweep,IN-LD,10
+BZ,Belize,BLZ,0
+CO,Amazonas (CO),CO-AMA,2
+RU,Magadan Oblast,RU-MAG,30
+CL,Valparaíso,CL-VS,135
+RU,Khabarovsk Krai,RU-KHA,35
+RU,Chechnya,RU-CE,35
+CA,Nunavut,CA-NU,10
+BR,Pará,BR-PA,350
+BJ,Benin,BEN,0
+RU,Zabaykalsky Krai,RU-ZAB,45
+KZ,West Kazakhstan,KZ-ZAP,30
+BR,Alagoas,BR-AL,100
+RU,Karachay-Cherkessia,RU-KC,35
+CL,Ñuble,CL-NB,80
+CO,Guainía,CO-GUA,0
+CO,Casanare,CO-CAS,110
+IN,Odisha,IN-OR,300
+CO,La Guajira,CO-LAG,60
+RU,Penza Oblast,RU-PNZ,60
+VN,South Central Coast,VN-27,325
+ST,São Tomé and Principe,STP,0
+MY,Perak,MY-08,120
+ID,West Sumatra,ID-SB,180
+MX,Tamaulipas,MX-TAM,180
+KZ,Kostanay,KZ-KUS,35
+CO,Quindío,CO-QUI,35
+UY,Uruguay,URY,500
+PL,Warmia-Masuria,PL-WN,110
+GE,Georgia,GEO,0
+LC,Saint Lucia,LCA,0
+IT,Lazio,IT-LT,150
+MW,Malawi,MWI,0
+RU,Nenets Autonomous Okrug,RU-NEN,2
+PL,Lubusz,PL-LB,70
+AR,Entre Ríos,AR-E,150
+ES,Castile and Leon,ES-SA,400
+VE,Venezuela,VEN,0
+CO,Santander,CO-SAN,120
+SX,Sint Maarten,SXM,0
+BR,Rio Grande do Sul,BR-RS,450
+AR,Formosa,AR-P,100
+BO,Bolivia,BOL,400
+AR,Córdoba (AR),AR-X,200
+CO,Guaviare,CO-GUV,7
+AQ,Antarctica,ATA,2
+SR,Suriname,SUR,0
+GA,Gabon,GAB,0
+GB,West Midlands,GB-SHR,135
+PL,Pomerania,PL-PM,90
+PE,Lambayeque,PE-LAM,70
+RU,Bryansk Oblast,RU-BRY,70
+ZA,Mpumalanga,ZA-MP,350
+ES,Extremadura,ES-BA,225
+UA,Crimea,UA-43,0
+KG,Kyrgyzstan,KGZ,180
+DE,Bremen,DE-HB,9
+CY,Northern Cyprus,CYN,0
+MU,Mauritius,MUS,0
+PE,La Libertad,PE-LAL,135
+IN,Puducherry,IN-PY,14
+RU,Adygea,RU-AD,30
+AT,Austria,AUT,750
+UM,United States Minor Outlying Islands,UMI,2
+ID,Bali,ID-BA,135
+DE,Baden-Württemberg,DE-BW,250
+DZ,Algeria,DZA,0
+AR,Chaco,AR-H,150
+RU,Jewish Autonomous Oblast,RU-YEV,12
+TG,Togo,TGO,0
+CO,San Andrés y Providencia,CO-SAP,14
+MX,Morelos,MX-MOR,50
+CO,Huila,CO-HUI,80
+US,Nebraska,US-NE,250
+CL,Antofagasta,CL-AN,200
+RU,Altai Krai,RU-ALT,80
+PH,Bicol Region,PH-CAN,165
+PG,Papua New Guinea,PNG,0
+FR,Hauts-de-France,FR-59,180
+MX,Guanajuato,MX-GUA,180
+BD,Barisal,BD-A,90
+NG,North Central,NG-NI,250
+CL,Arica y Parinacota,CL-AP,70
+XX,Spratly Islands,PGA,0
+ES,Castile-La Mancha,ES-AB,350
+AR,San Juan,AR-J,120
+IT,Sicily,IT-TP,250
+SG,Singapore,SGP,25
+NZ,New Zealand Outlying Islands,NZ-X06~,0
+CL,Aysén,CL-AI,150
+DE,Mecklenburg-Vorpommern,DE-MV,150
+VU,Vanuatu,VUT,3
+AU,Australian Capital Territory,AU-ACT,25
+MX,Guerrero,MX-GRO,200
+CO,Atlántico,CO-ATL,45
+IE,Ireland,IRL,500
+RO,Centru,RO-CV,250
+US,New Jersey,US-NJ,100
+IN,Chandigarh,IN-CH,5
+CO,Bolívar,CO-BOL,70
+CL,Magallanes,CL-MA,60
+EG,Egypt,EGY,5
+RU,Kursk Oblast,RU-KRS,50
+ID,Gorontalo,ID-GO,70
+RU,"Moscow, City of",RU-MOS,20
+AL,Albania,ALB,200
+US,Michigan,US-MI,225
+TR,Central Anatolia,TR-06,650
+GB,East Midlands,GB-LIN,135
+MX,Baja California Sur,MX-BCS,120
+RU,Mari El,RU-ME,30
+RU,Kemerovo Oblast,RU-KEM,90
+RU,Krasnodar Krai,RU-KDA,135
+ID,East Nusa Tenggara,ID-NT,350
+AU,Victoria,AU-VIC,700
+PN,Pitcairn Islands,PCN,3
+IN,Arunachal Pradesh,IN-AR,80
+PY,Paraguay,PRY,425
+AR,Buenos Aires,AR-B,375
+IT,Friuli-Venezia Giulia,IT-UD,60
+VN,Red River Delta,VN-18,165
+US,Connecticut,US-CT,80
+MX,Chiapas,MX-CHP,250
+TV,Tuvalu,TUV,0
+FM,Federated States of Micronesia,FSM,0
+US,Rhode Island,US-RI,35
+VN,Southeast,VN-58,225
+GR,Crete,GR-M,80
+PE,Madre de Dios,PE-MDD,35
+US,North Dakota,US-ND,225
+MY,Kelantan,MY-03,90
+US,Texas,US-TX,700
+CL,Maule,CL-ML,150
+JP,Kansai,JP-28,325
+AG,Antigua and Barbuda,ATG,0
+IN,Uttar Pradesh,IN-UP,650
+FR,Île-de-France,FR-75,100
+RO,București - Ilfov,RO-IF,30
+RU,Kirov Oblast,RU-KIR,70
+RU,Tuva,RU-TY,30
+AR,Santa Cruz,AR-Z,200
+WS,Samoa,WSM,0
+VN,Mekong River Delta,VN-41,225
+LA,Laos,LAO,60
+TM,Turkmenistan,TKM,0
+CA,Northwest Territories,CA-NT,45
+AU,Tasmania,AU-TAS,350
+FJ,Fiji,FJI,0
+IT,Tuscany,IT-GR,180
+CO,Córdoba (CO),Co-COR,80
+RU,Rostov Oblast,RU-ROS,100
+FR,Corsica,FR-2B,80
+ME,Montenegro,MNE,110
+GR,"Peloponnese, Western Greece and the Ionian",GR-J,300
+IN,Ladakh,IN-JK,18
+US,Kansas,US-KS,225
+MY,Johor,MY-01,150
+BD,Sylhet,BD-G,110
+RU,"Karelia, Republic of",RU-KR,80
+CO,Cundinamarca,CO-CUN,135
+UA,West Ukraine,UA-07,300
+GG,Guernsey,GGY,0
+TH,Eastern Thailand,TH-27,200
+AW,Aruba,ABW,0
+ZA,North West,ZA-NW,350
+BR,Maranhão,BR-MA,325
+NG,North East,NG-BO,135
+DE,Brandenburg,DE-BB,165
+JP,Hokkaido,JP-01,325
+LS,Lesotho,LSO,135
+BR,Amazonas (BR),BR-AM,110
+SO,Somalia,SOM,0
+ID,Riau Islands,ID-KR,60
+BR,Espírito Santo,BR-ES,150
+RU,Perm Krai,RU-PER,90
+RO,Nord-Vest,RO-SM,275
+BD,Khulna,BD-D,200
+AE,United Arab Emirates,ARE,120
+IT,Liguria,IT-IM,45
+AS,American Samoa,ASM,25
+ID,Papua,ID-PA,0
+MG,Madagascar,MDG,14
+US,Montana,US-MT,450
+TH,Central Thailand,TH-65,550
+LY,Libya,LBY,0
+IN,Assam,IN-AS,225
+MY,Putrajaya,MY-16,3
+SS,South Sudan,SDS,0
+PE,Junin,PE-JUN,110
+PH,Central Luzon,PH-AUR,200
+ES,Basque Country,ES-SS,90
+ID,West Sulawesi,ID-SR,70
+RU,Mordovia,RU-MO,45
+BH,Bahrain,BHR,0
+IN,Nagaland,IN-NL,2
+AF,Afghanistan,AFG,0
+TH,Southern Thailand,TH-91,425
+GB,South West England,GB-GLS,200
+DM,Dominica,DMA,0
+PL,Lower Silesia,PL-DS,120
+MY,Kedah,MY-02,80
+NZ,North Island,NZ-AUK,800
+PE,Ayacucho,PE-AYA,90
+RU,Komi Republic,RU-KO,100
+US,Florida,US-FL,275
+TC,Turks and Caicos Islands,TCA,0
+US,California,US-CA,700
+SE,Svealand,SE-W,500
+IT,Abruzzo,IT-TE,90
+MZ,Mozambique,MOZ,0
+CO,Chocó,CO-CHO,25
+TL,East Timor,TLS,0
+CL,Biobío,CL-BI,100
+RU,Tyumen Oblast,RU-TYU,70
+PA,Panama,PAN,350
+KE,Nairobi,KE-110,20
+RU,Khanty-Mansi Autonomous Okrug,RU-KHM,100
+FR,Pays de la Loire,FR-85,165
+MA,Morocco,MAR,0
+PE,Tacna,PE-TAC,60
+SC,Seychelles,SYC,0
+VN,Northwest,VN-71,325
+IT,Aosta Valley,IT-AO,30
+DE,Thuringia,DE-TH,110
+NO,Western Norway,NO-11,450
+LR,Liberia,LBR,0
+RU,Omsk Oblast,RU-OMS,110
+VN,North Central Coast,VN-21,325
+ES,Galicia,ES-OR,200
+CA,Nova Scotia,CA-NS,325
+AR,Tierra del Fuego,AR-V,40
+RU,Tomsk Oblast,RU-TOM,90
+RU,Chuvashia,RU-CU,45
+US,Kentucky,US-KY,180
+US,Virginia,US-VA,200
+NC,New Caledonia,NCL,0
+DE,Lower Saxony,DE-NI,275
+KE,Coastal Region,KE-300,120
+PR,Puerto Rico,PRI,135
+RU,Pskov Oblast,RU-PSK,60
+IN,Himachal Pradesh,IN-HP,70
+BG,Bulgaria,BGR,800
+SH,Saint Helena,SHN,0
+PE,Callao,PE-CAL,8
+AR,Salta,AR-A,165
+US,Ohio,US-OH,225
+MO,Macau,MAC,12
+KZ,Almaty (City),KZ-ALA,35
+GH,Ghana,GHA,375
+AR,San Luis,AR-D,135
+PH,Calabarzon,PH-QUE,200
+DE,Rhineland-Palatinate,DE-RP,135
+BD,Mymensingh,BD-C,110
+UZ,Uzbekistan,UZB,0
+US,Wisconsin,US-WI,200
+CL,Atacama,CL-AT,200
+GB,South East England,GB-KEN,180
+GB,Yorkshire and the Humber,GB-NYK,150
+MX,Tlaxcala,MX-TLA,45
+IM,Isle of Man,IMN,18
+ID,East Java,ID-JI,400
+TD,Chad,TCD,0
+SD,Sudan,SDN,0
+US,Arkansas,US-AR,200
+SB,Solomon Islands,SLB,0
+MY,Selangor,MY-10,80
+NI,Nicaragua,NIC,0
+IN,Mizoram,IN-MZ,40
+MX,Tabasco,MX-TAB,135
+ID,West Java,ID-JB,300
+IN,Delhi,IN-DL,14
+IL,Israel,ISR,275
+RU,Krasnoyarsk Krai,RU-KYA,80
+WF,Wallis and Futuna,WLF,0
+ES,Valencian Community,ES-CS,200
+BR,Roraima,BR-RR,135
+AU,Ashmore and Cartier Islands,AU-X04~,0
+ES,Andalusia,ES-CA,350
+PE,Ica,PE-ICA,90
+DE,Hamburg,DE-HH,16
+KZ,Ulytau,KZ-KAR,22
+PE,Moquegua,PE-MOQ,60
+PL,Lesser Poland,PL-MA,150
+IT,Piedmont,IT-VB,180
+US,North Carolina,US-NC,200
+MX,Michoacán,MX-MIC,200
+MS,Montserrat,MSR,0
+KZ,Pavlodar,KZ-PAV,40
+US,Missouri,US-MO,250
+TT,Trinidad and Tobago,TTO,0
+MK,North Macedonia,MKD,100
+US,New York,US-NY,300
+RU,Tatarstan,RU-TA,100
+ZA,Gauteng,ZA-GT,180
+RU,Sverdlovsk Oblast,RU-SVE,110
+KZ,Akmola,KZ-AKM,100
+RU,Yaroslavl Oblast,RU-YAR,50
+ZA,Eastern Cape,ZA-EC,400
+GQ,Equatorial Guinea,GNQ,0
+RU,Vologda Oblast,RU-VLG,50
+TR,Marmara,TR-39,500
+RU,Orenburg Oblast,RU-ORE,70
+ID,Banten,ID-BT,110
+FR,Nouvelle-Aquitaine,FR-64,400
+FR,Grand Est,FR-08,300
+PE,Puno,PE-PUN,135
+HK,Hong Kong,HKG,80
+RU,Khakassia,RU-KK,45
+BR,Acre,BR-AC,90
+PL,Lublin,PL-LU,120
+IN,Karnataka,IN-KA,550
+ID,East Kalimantan,ID-KI,150
+CX,Christmas Island,CXR,16
+YT,Mayotte,FR-YT,0
+TR,Mediterranean,TR-31,375
+BN,Brunei,BRN,0
+PL,Greater Poland,PL-WP,200
+ID,Jakarta,ID-JK,14
+RW,Rwanda,RWA,225
+IN,Meghalaya,IN-ML,80
+RU,Kurgan Oblast,RU-KGN,50
+FR,Brittany,FR-56,165
+MX,Baja California,MX-BCN,135
+MX,Nuevo León,MX-NLE,180
+ID,West Kalimantan,ID-KB,225
+PE,Huancavelica,PE-HUV,70
+RU,Lipetsk Oblast,RU-LIP,60
+KZ,Jetisu,KZ-ALA,35
+MX,Querétaro,MX-QUE,90
+ID,Bangka Belitung,ID-BB,90
+ID,Central Sulawesi,ID-ST,225
+GR,Mount Athos,GR-69,0
+RU,Smolensk Oblast,RU-SMO,60
+GB,East of England,GB-NFK,165
+KZ,Abai Region,KZ-VOS,35
+LK,Sri Lanka,LKA,650
+AU,Jervis Bay Territory,AU-X02~,0
+JE,Jersey,JEY,10
+BR,Mato Grosso do Sul,BR-MS,400
+AO,Angola,AGO,0
+SK,Slovakia,SVK,550
+VG,British Virgin Islands,VGB,0
+PE,Ucayali,PE-UCA,35
+US,New Hampshire,US-NH,100
+PE,Apurimac,PE-APU,50
+US,Vermont,US-VT,90
+SV,El Salvador,SLV,0
+PE,Huanuco,PE-HUC,80
+MY,Sarawak,MY-13,275
+NP,Nepal,NPL,600
+CO,Risaralda,CO-RIS,40
+PH,Negros Island,PH-SIG,150
+TN,Tunisia,TUN,120
+US,Oklahoma,US-OK,250
+PH,Eastern Visayas,PH-SLE,120
+ES,Asturias,ES-O,100
+PH,Central Visayas,PH-BOH,150
+CO,Putumayo,CO-PUT,25
+KE,Central Kenya,KE-400,225
+IN,Andhra Pradesh,IN-AP,400
+ID,North Sumatra,ID-SU,300
+RU,Samara Oblast,RU-SAM,70
+MX,Durango,MX-DUR,200
+PS,West Bank,PS-WBK,80
+BR,Piauí,BR-PI,275
+CA,Yukon,CA-YT,60
+RU,Kaluga Oblast,RU-KLU,60
+US,District of Columbia,US-DC,6
+MX,Sinaloa,MX-SIN,135
+UA,Central Ukraine,UA-74,400
+US,Pennsylvania,US-PA,250
+CO,Vichada,CO-VID,8
+SZ,Eswatini,SWZ,120
+CU,Cuba,CUB,0
+JP,Kanto,JP-08,450
+MX,Sonora,MX-SON,225
+EC,Galápagos,EC-W,2
+KE,Nyanza,KE-600,225
+TW,Taiwan,TWN,650
+IN,Kerala,IN-KL,150
+GM,Gambia,GMB,0
+RU,Udmurtia,RU-UD,60
+CO,Cauca,CO-CAU,60
+RU,Chelyabinsk Oblast,RU-CHE,120
+MX,Zacatecas,MX-ZAC,225
+US,Minnesota,US-MN,250
+CO,Magdalena,CO-MAG,50
+RO,Nord-Est,RO-BT,275
+VN,Central Highlands,VN-28,375
+DE,Bavaria,DE-BY,425
+FO,Faroe Islands,FRO,60
+ID,Maluku,ID-MA,0
+HU,Hungary,HUN,700
+CA,Newfoundland & Labrador,CA-NL,275
+BB,Barbados,BRB,0
+PE,Arequipa,PE-ARE,180
+IT,Trentino-Alto Adige/Südtirol,IT-BZ,110
+PE,Pasco,PE-PAS,40
+MX,Jalisco,MX-JAL,250
+RS,Republic of Serbia,SRB,300
+IT,Basilicata,IT-MT,70
+RU,Belgorod Oblast,RU-BEL,60
+MX,San Luis Potosí,MX-SLP,200
+PH,Cagayan Valley,PH-CAG,150
+ES,La Rioja (ES),ES-LO,45
+ES,Balearic Islands,ES-PM,100
+IT,Emilia-Romagna,IT-RN,165
+PH,Northern Mindanao,PH-MSR,135
+TH,Northern Thailand,TH-57,450
+ZA,Limpopo,ZA-LP,475
+PH,Ilocos Region,PH-PAN,180
+MV,Maldives,MDV,0
+DE,Schleswig-Holstein,DE-SH,120
+CY,Cyprus,CYP,120
+MX,Colima,MX-COL,60
+RU,Kostroma Oblast,RU-KOS,40
+US,Utah,US-UT,325
+TW,"Penghu, Kinmen & Matsu",TW-KIN,35
+BR,Mato Grosso,BR-MT,550
+IN,Jammu and Kashmir,IN-JK,30
+RU,Leningrad Oblast,RU-LEN,120
+ZM,Zambia,ZMB,0
+MX,Nayarit,MX-NAY,100
+AU,South Australia,AU-SA,650
+MY,Penang,MY-07,35
+AU,Queensland,AU-QLD,950
+ID,Kalimantan Utara,ID-KI,60
+US,Wyoming,US-WY,325
+HT,Haiti,HTI,0
+PE,Cusco,PE-CUS,120
+AR,Catamarca,AR-K,135
+US,New Mexico,US-NM,375
+RU,Oryol Oblast,RU-ORL,50
+PL,Kuyavia-Pomerania,PL-KP,135
+HM,Heard Island and McDonald Islands,HMD,0
+GB,Northern Ireland,GB-DRY,150
+SO,Somaliland,SOL,0
+CO,Boyacá,CO-BOY,100
+ES,Ceuta,ES-CE,14
+US,Tennessee,US-TN,200
+KE,Maasailand,KE-700,180
+ES,Melilla,ES-ML,14
+PL,Silesia,PL-SL,120
+GB,Wales,GB-FLN,225
+ID,South Sulawesi,ID-SN,275
+US,Alaska,US-AK,135
+VN,Northeast,VN-03,350
+PL,Opole,PL-OP,60
+ZA,Free State,ZA-FS,375
+CL,La Araucanía,CL-AR,135
+MY,Sabah,MY-12,250
+US,South Carolina,US-SC,150
+PE,Cajamarca,PE-CAJ,120
+KZ,Atyrau,KZ-ATY,35
+RU,Novgorod Oblast,RU-NGR,60
+DE,Berlin,DE-BE,20
+TH,Northeastern Thailand,TH-32,750
+IN,Telangana,IN-TG,325
+BF,Burkina Faso,BFA,0
+PE,Ancash,PE-ANC,135
+CL,Coquimbo,CL-CO,165
+NU,Niue,NIU,0
+KE,Rift Valley,KE-200,165
+PE,Lima Province,PE-LIM,35
+AR,Mendoza,AR-M,150
+RO,Sud-Est,RO-CT,225
+RU,Kabardino-Balkaria,RU-KB,45
+FR,Provence-Alpes-Côte d'Azur,FR-06,180
+IN,Rajasthan,IN-RJ,750
+US,South Dakota,US-SD,225
+CW,Curaçao,CUW,40
+MX,Quintana Roo,MX-ROO,135
+KZ,Jambyl,KZ-ZHA,25
+IT,Veneto,IT-BL,135
+CK,Cook Islands,COK,0
+ID,West Papua,ID-PB,0
+PH,Zamboanga Peninsula,PH-SLU,70
+AR,Misiones,AR-N,120
+CO,Arauca,CO-ARA,18
+AD,Andorra,AND,18
+KR,South Korea,KOR,600
+MN,Mongolia,MNG,600
+DE,North Rhine-Westphalia,DE-NW,300
+RU,Kamchatka Krai,RU-KAM,30
+AR,Neuquén,AR-Q,150
+US,Oregon,US-OR,350
+US,Louisiana,US-LA,165
+MX,Oaxaca,MX-OAX,275
+ID,South East Sulawesi,ID-SG,165
+RU,North Ossetia-Alania,RU-SE,35
+CI,Ivory Coast,CIV,0
+RU,Volgograd Oblast,RU-VGG,80
+AR,La Rioja (AR),AR-F,110
+NO,Trøndelag,NO-17,250
+BR,Goiás,BR-GO,500
+SE,Norrland,SE-BD,650
+CC,Cocos (Keeling) Islands,CCK,14
+GR,Thessaly and Central Greece,GR-E,225
+KW,Kuwait,KWT,0
+NE,Niger,NER,0
+NZ,South Island,NZ-STL,700
+PH,"Mindoro, Marinduque & Romblon",PH-ROM,80
+IN,Jharkhand,IN-JH,225
+GY,Guyana,GUY,0
+BI,Burundi,BDI,0
+OM,Oman,OMN,950
+EH,Western Sahara,SAH,0
+ES,Canary Islands,ES-TF,200
+IN,Maharashtra,IN-MH,750
+BR,Santa Catarina,BR-SC,275
+NL,Netherlands,NLD,550
+PL,Świętokrzyskie,PL-SK,80
+GT,Guatemala,GTM,350
+IT,Campania,IT-SA,120
+CL,Los Ríos,CL-LR,100
+AX,Åland,ALD,16
+MX,Puebla,MX-PUE,180
+AR,Buenos Aires City,AR-C,9
+CA,New Brunswick,CA-NB,325
+PK,Pakistan,PAK,16
+AU,New South Wales,AU-NSW,1000
+CO,Nariño,CO-NAR,80
+PL,Podlaskie,PL-PD,100
+YE,Yemen,YEM,0
+TR,Aegean,TR-35,400
+CA,Manitoba,CA-MB,375
+MR,Mauritania,MRT,0
+KZ,North Kazakhstan,KZ-SEV,35
+PT,Mainland Portugal,PT-07,750
+SI,Slovenia,SVN,225
+RU,Chukotka,RU-CHU,0
+ES,Cantabria,ES-S,70
+BR,Rondônia,BR-RO,165
+AR,Corrientes,AR-W,150
+CA,Saskatchewan,CA-SK,500
+BS,The Bahamas,BHS,0
+BD,Rajshahi,BD-E,135
+MM,Myanmar,MMR,0
+ET,Ethiopia,ETH,0
+PE,Lima Region,PE-LIM,180
+PE,Loreto,PE-LOR,16
+RU,Kaliningrad Oblast,RU-KGD,80
+JP,Chugoku,JP-32,350
+RU,Kalmykia,RU-KL,45
+GR,Aegean (GR),GR-L,120
+MX,State of Mexico,MX-MEX,120
+US,Arizona,US-AZ,400
+ID,Riau,ID-RI,225
+ES,Navarre,ES-NA,100
+TR,Southeastern Anatolia,TR-73,300
+TJ,Tajikistan,TJK,0
+PT,Madeira,PT-30,40
+NG,South South,NG-CR,275
+BV,Bouvet Island,NO-X01~,0
+UG,Uganda,UGA,100
+PH,Caraga,PH-SUN,70
+EE,Estonia,EST,425
+KZ,Kyzylorda,KZ-KZY,30
+SN,Senegal,SEN,550
+CO,Caquetá,CO-CAQ,20
+BR,Bahia,BR-BA,700
+GR,Attica,GR-A1,60
+JP,Chubu,JP-18,650
+RU,Saint Petersburg,RU-SPE,14
+NO,Eastern Norway,NO-04,500
+NO,Northern Norway,NO-19,475
+KZ,East Kazakhstan,KZ-VOS,35
+KP,North Korea,PRK,0
+GW,Guinea-Bissau,GNB,0
+IN,Manipur,IN-MN,20
+AR,Santa Fe,AR-S,200
+CO,Bogota,CO-CUN,30
+CO,Norte de Santander,CO-NSA,70
+PE,Piura,PE-PIU,135
+BD,Chittagong,BD-B,200
+RU,Dagestan,RU-DA,80
+BE,Belgium,BEL,425
+ES,Murcia,ES-MU,100
+RU,Sakhalin Oblast,RU-SAK,70
+PL,Łódź,PL-LD,110
+VI,United States Virgin Islands,VIR,50
+ES,Community of Madrid,ES-M,70
+RU,Vladimir Oblast,RU-VLA,60
+TF,French Southern and Antarctic Lands,ATF,0
+KE,Greater Kitui,KE-400,200
+BR,Amapá,BR-AP,70
+RU,Sakha Republic,RU-SA,110
+MX,Yucatan,MX-YUC,150
+RU,Ingushetia,RU-IN,10
+BY,Belarus,BLR,2
+CV,Cabo Verde,CPV,0
+KZ,Karaganda,KZ-KAR,60
+BR,Minas Gerais,BR-MG,850
+NG,South West,NG-OG,250
+RU,Nizhny Novgorod Oblast,RU-NIZ,90
+NG,North West,NG-KE,180
+KM,Comoros,COM,0
+PH,Panay,PH-GUI,135
+GS,South Georgia and the Islands,SGS,2
+IT,Apulia,IT-FG,150
+ZW,Zimbabwe,ZWE,0
+IN,Dadra and Nagar Haveli and Daman and Diu,IN-DH,12
+AU,Western Australia,AU-WA,900
+US,Georgia (US),GEO,225
+CL,Santiago Metropolitan Region,CL-RM,100
+TR,Eastern Anatolia,TR-75,425
+MH,Marshall Islands,MHL,0
+RU,Stavropol Krai,RU-STA,80
+RU,Altai Republic,RU-AL,30
+GD,Grenada,GRD,0
+CN,China,CHN,0
+US,Iowa,US-IA,180
+GF,French Guiana,FR-GF,0
+DK,Denmark,DNK,550
+GB,North West England,GB-CHW,150
+CO,Sucre,CO-SUC,60
+IN,Madhya Pradesh,IN-MP,700
+RU,Buryatia,RU-BU,150
+CA,Alberta,CA-AB,650
+PL,Subcarpathia,PL-PK,135
+IN,Bihar,IN-BR,325
+ID,Bengkulu,ID-BE,80
+GB,London,GB-WND,22
+BR,São Paulo,BR-SP,550
+GR,Epirus and Western Macedonia,GR-C,135
+ZA,Northern Cape,ZA-NC,550
+IS,Iceland,ISL,450
+ZA,Western Cape,ZA-WC,450
+FR,Occitania,FR-31,350
+SJ,Svalbard and Jan Mayen,NO-21,14
+JM,Jamaica,JAM,0
+IT,Umbria,IT-TR,60
+RU,Moscow Oblast,RU-MOW,135
+CD,Democratic Republic of the Congo,COD,0
+MC,Monaco,MCO,5
+LI,Liechtenstein,LIE,16
+RO,Sud - Muntenia,RO-CL,200
+SY,Syria,SYR,0
+MY,Malacca,MY-04,40
+US,Delaware,US-DE,40
+AR,Chubut,AR-U,200
+FR,Centre-Val de Loire,FR-37,180
+US,Hawaii,US-HI,150
+IO,British Indian Ocean Territory,IOT,0
+PE,Tumbes,PE-TUM,30
+US,Washington,US-WA,325
+ES,Catalonia,ES-L,225
+IN,Goa,IN-GA,40
+ID,Central Java,ID-JT,300
+AM,Armenia,ARM,0
+BD,Rangpur,BD-F,135
+IT,Calabria,IT-CS,135
+CG,Republic of the Congo,COG,0
+VC,Saint Vincent and the Grenadines,VCT,0
+IN,Haryana,IN-HR,135
+IN,Punjab,IN-PB,200
+KZ,Almaty (Region),KZ-ALA,30
+MX,Hidalgo,MX-HID,120
+PS,Bethlehem/Jericho/Ramallah,,25
+PH,Metro Manila,PH-MNL,16
+MY,Perlis,MY-09,30
+RU,Primorsky Krai,RU-PRI,100
+JO,Jordan,JOR,100
+US,Massachusetts,US-MA,120
+FI,Finland,FIN,1000
+CO,Antioquia,CO-ANT,180
+LU,Luxembourg,LUX,90
+RU,Amur Oblast,RU-AMU,50
+KZ,Astana,KZ-AST,25
+BR,Ceará,BR-CE,300
+RU,Bashkortostan,RU-BA,120
+RU,Ivanovo Oblast,RU-IVA,40
+AR,La Pampa,AR-L,110
+KH,Cambodia,KHM,800
+BR,Paraíba,BR-PB,165
+IT,Marche,IT-PU,80
+ID,Central Kalimantan,ID-KT,165
+CO,Caldas,CO-CAL,50
+CL,Los Lagos,CL-LL,225
+GP,Guadeloupe,FR-GP,0
+DE,Saarland,DE-SL,25
+SM,San Marino,SMR,18
+CA,Prince Edward Island,CA-PE,80
+CP,Clipperton Island,CLP,0
+MX,Veracruz,MX-VER,275
+MX,Aguascalientes,MX-AGU,60
+PM,Saint Pierre and Miquelon,SPM,6
+RU,Voronezh Oblast,RU-VOR,80
+NO,Southern Norway,NO-09,135
+US,Alabama,US-AL,180
+MY,Kuala Lumpur,MY-14,9
+MY,Labuan,MY-15,10
+MT,Malta,MLT,50
+PE,Amazonas (PE),PE-AMA,60
+RU,Tambov Oblast,RU-TAM,60
+ID,West Nusa Tenggara,ID-NB,200
+DE,Hessen,DE-HE,120
+NR,Nauru,NRU,0
+MX,Chihuahua,MX-CHH,250
+CL,Tarapacá,CL-TA,110
+IN,Tripura,IN-TR,45
+US,Nevada,US-NV,275
+GL,Greenland,GRL,70
+KZ,Shymkent,KZ-YUZ,40
+PH,Soccskargen,PH-NCO,135
