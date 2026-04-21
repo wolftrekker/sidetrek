@@ -30,7 +30,7 @@
     },
     "Ecuador": {
       "iso_a2": "EC",
-      "loc_count": 602
+      "loc_count": 652
     },
     "Falkland Islands": {
       "iso_a2": "FK",
@@ -206,7 +206,7 @@
     },
     "Chile": {
       "iso_a2": "CL",
-      "loc_count": 2070
+      "loc_count": 2080
     },
     "Bermuda": {
       "iso_a2": "BM",
@@ -386,7 +386,7 @@
     },
     "Cyprus": {
       "iso_a2": "CY",
-      "loc_count": 120
+      "loc_count": 135
     },
     "Mauritius": {
       "iso_a2": "MU",
@@ -870,7 +870,7 @@
     },
     "Belarus": {
       "iso_a2": "BY",
-      "loc_count": 2
+      "loc_count": 3
     },
     "Cabo Verde": {
       "iso_a2": "CV",
@@ -880,7 +880,7 @@
       "iso_a2": "KM",
       "loc_count": 0
     },
-    "South Georgia and the Islands": {
+    "South Georgia and the South Sandwich Islands": {
       "iso_a2": "GS",
       "loc_count": 2
     },
@@ -912,7 +912,7 @@
       "iso_a2": "IS",
       "loc_count": 450
     },
-    "Svalbard and Jan Mayen": {
+    "Svalbard": {
       "iso_a2": "SJ",
       "loc_count": 14
     },
@@ -1119,7 +1119,7 @@
       "Azerbaijan": 0
     },
     "EC": {
-      "Ecuador Mainland": 600,
+      "Ecuador Mainland": 650,
       "Galápagos": 2
     },
     "FK": {
@@ -1285,7 +1285,7 @@
       "Berlin": 20,
       "North Rhine-Westphalia": 300,
       "Saarland": 25,
-      "Hessen": 120
+      "Hesse": 120
     },
     "IL": {
       "Golan Heights": 25,
@@ -1357,7 +1357,7 @@
       "Eritrea": 0
     },
     "GB": {
-      "Scotland": 500,
+      "Scotland": 550,
       "North East England": 100,
       "West Midlands": 135,
       "East Midlands": 135,
@@ -1368,7 +1368,7 @@
       "Northern Ireland": 150,
       "Wales": 225,
       "North West England": 150,
-      "London": 22
+      "Greater London": 22
     },
     "IN": {
       "Gujarat": 475,
@@ -1464,7 +1464,7 @@
       "Central Sulawesi": 225,
       "North Sumatra": 300,
       "Maluku": 0,
-      "Kalimantan Utara": 60,
+      "North Kalimantan": 60,
       "South Sulawesi": 275,
       "West Papua": 0,
       "South East Sulawesi": 165,
@@ -1590,7 +1590,7 @@
       "Subcarpathia": 135
     },
     "CA": {
-      "Québec": 800,
+      "Quebec": 800,
       "Ontario": 900,
       "British Columbia": 700,
       "Nunavut": 10,
@@ -1666,9 +1666,9 @@
       "Central Anatolia": 650,
       "Marmara": 500,
       "Mediterranean": 375,
-      "Aegean": 400,
-      "Southeastern Anatolia": 300,
-      "Eastern Anatolia": 425
+      "Aegean (TR)": 400,
+      "Southeastern Anatolia": 275,
+      "Eastern Anatolia": 450
     },
     "KY": {
       "Cayman Islands": 0
@@ -1692,7 +1692,7 @@
       "Antofagasta": 200,
       "Arica y Parinacota": 70,
       "Aysén": 150,
-      "Magallanes": 60,
+      "Magallanes": 70,
       "Maule": 150,
       "Biobío": 100,
       "Atacama": 200,
@@ -1796,12 +1796,12 @@
       "Lithuania": 475
     },
     "NG": {
-      "South East": 165,
-      "North Central": 250,
-      "North East": 135,
-      "South South": 275,
-      "South West": 250,
-      "North West": 180
+      "South East Nigeria": 165,
+      "North Central Nigeria": 250,
+      "North East Nigeria": 135,
+      "South South Nigeria": 275,
+      "South West Nigeria": 250,
+      "North West Nigeria": 180
     },
     "LB": {
       "Lebanon": 14
@@ -1883,7 +1883,7 @@
     },
     "CY": {
       "Northern Cyprus": 0,
-      "Cyprus": 120
+      "Cyprus": 135
     },
     "MU": {
       "Mauritius": 0
@@ -2134,7 +2134,7 @@
       "Barbados": 0
     },
     "RS": {
-      "Republic of Serbia": 300
+      "Serbia": 300
     },
     "MV": {
       "Maldives": 0
@@ -2254,7 +2254,7 @@
       "French Southern and Antarctic Lands": 0
     },
     "BY": {
-      "Belarus": 2
+      "Belarus": 3
     },
     "CV": {
       "Cabo Verde": 0
@@ -2263,7 +2263,7 @@
       "Comoros": 0
     },
     "GS": {
-      "South Georgia and the Islands": 2
+      "South Georgia and the South Sandwich Islands": 2
     },
     "ZW": {
       "Zimbabwe": 0
@@ -2287,7 +2287,7 @@
       "Iceland": 450
     },
     "SJ": {
-      "Svalbard and Jan Mayen": 14
+      "Svalbard": 14
     },
     "JM": {
       "Jamaica": 0
