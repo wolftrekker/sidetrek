@@ -630,7 +630,7 @@
     },
     "Hong Kong": {
       "iso_a2": "HK",
-      "loc_count": 80
+      "loc_count": 90
     },
     "Christmas Island": {
       "iso_a2": "CX",
@@ -794,7 +794,7 @@
     },
     "Guatemala": {
       "iso_a2": "GT",
-      "loc_count": 350
+      "loc_count": 375
     },
     "Åland": {
       "iso_a2": "AX",
@@ -1152,7 +1152,7 @@
       "Moscow, City of": 20,
       "Mari El": 30,
       "Kemerovo Oblast": 90,
-      "Krasnodar Krai": 135,
+      "Krasnodar Krai": 150,
       "Kirov Oblast": 70,
       "Tuva": 30,
       "Rostov Oblast": 100,
@@ -1258,7 +1258,7 @@
       "Louisiana": 165,
       "Arizona": 400,
       "Georgia (US)": 225,
-      "Iowa": 180,
+      "Iowa": 200,
       "Delaware": 40,
       "Hawaii": 150,
       "Washington": 325,
@@ -1377,8 +1377,8 @@
       "Tamil Nadu": 450,
       "West Bengal": 325,
       "Sikkim": 30,
-      "Andaman and Nicobar Islands": 45,
-      "Lakshadweep": 10,
+      "Andaman and Nicobar Islands": 50,
+      "Lakshadweep": 12,
       "Odisha": 300,
       "Puducherry": 14,
       "Chandigarh": 5,
@@ -1513,7 +1513,7 @@
     "JP": {
       "Tohoku": 550,
       "Kyushu": 475,
-      "Shikoku": 180,
+      "Shikoku": 200,
       "Ryukyu Islands": 80,
       "Kansai": 325,
       "Hokkaido": 325,
@@ -1576,7 +1576,7 @@
       "West Pomerania": 110,
       "Warmia-Masuria": 110,
       "Lubusz": 70,
-      "Pomerania": 90,
+      "Pomerania": 100,
       "Lower Silesia": 120,
       "Lesser Poland": 150,
       "Lublin": 120,
@@ -1822,7 +1822,7 @@
       "Gauteng": 180,
       "Eastern Cape": 400,
       "Limpopo": 475,
-      "Free State": 375,
+      "Free State": 400,
       "Northern Cape": 550,
       "Western Cape": 450
     },
@@ -2073,7 +2073,7 @@
       "Equatorial Guinea": 0
     },
     "HK": {
-      "Hong Kong": 80
+      "Hong Kong": 90
     },
     "CX": {
       "Christmas Island": 16
@@ -2197,7 +2197,7 @@
       "Netherlands": 550
     },
     "GT": {
-      "Guatemala": 350
+      "Guatemala": 375
     },
     "AX": {
       "Åland": 16
