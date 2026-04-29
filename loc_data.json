@@ -846,7 +846,7 @@
     },
     "Senegal": {
       "iso_a2": "SN",
-      "loc_count": 550
+      "loc_count": 600
     },
     "North Korea": {
       "iso_a2": "KP",
@@ -1055,7 +1055,7 @@
       "Oaxaca": 275,
       "Puebla": 180,
       "State of Mexico": 120,
-      "Yucatan": 150,
+      "Yucatan": 165,
       "Hidalgo": 120,
       "Veracruz": 275,
       "Aguascalientes": 60,
@@ -1277,7 +1277,7 @@
       "Mecklenburg-Vorpommern": 150,
       "Brandenburg": 165,
       "Thuringia": 110,
-      "Lower Saxony": 275,
+      "Lower Saxony": 300,
       "Rhineland-Palatinate": 135,
       "Hamburg": 16,
       "Bavaria": 425,
@@ -1746,7 +1746,7 @@
       "Jervis Bay Territory": 0,
       "South Australia": 650,
       "Queensland": 950,
-      "New South Wales": 1000,
+      "New South Wales": 1050,
       "Western Australia": 900
     },
     "CH": {
@@ -2236,7 +2236,7 @@
       "Estonia": 425
     },
     "SN": {
-      "Senegal": 550
+      "Senegal": 600
     },
     "KP": {
       "North Korea": 0
