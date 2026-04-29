@@ -114,7 +114,7 @@
     },
     "Costa Rica": {
       "iso_a2": "CR",
-      "loc_count": 375
+      "loc_count": 400
     },
     "Malaysia": {
       "iso_a2": "MY",
@@ -366,7 +366,7 @@
     },
     "Bolivia": {
       "iso_a2": "BO",
-      "loc_count": 400
+      "loc_count": 425
     },
     "Antarctica": {
       "iso_a2": "AQ",
@@ -446,7 +446,7 @@
     },
     "Paraguay": {
       "iso_a2": "PY",
-      "loc_count": 425
+      "loc_count": 450
     },
     "Tuvalu": {
       "iso_a2": "TV",
@@ -1490,7 +1490,7 @@
       "Latvia": 450
     },
     "CR": {
-      "Costa Rica": 375
+      "Costa Rica": 400
     },
     "MY": {
       "Terengganu": 100,
@@ -1733,7 +1733,7 @@
       "Sylhet": 110,
       "Khulna": 200,
       "Mymensingh": 110,
-      "Rajshahi": 135,
+      "Rajshahi": 150,
       "Chittagong": 200,
       "Rangpur": 135
     },
@@ -1867,7 +1867,7 @@
       "Sint Maarten": 0
     },
     "BO": {
-      "Bolivia": 400
+      "Bolivia": 425
     },
     "AQ": {
       "Antarctica": 2
@@ -1930,7 +1930,7 @@
       "Pitcairn Islands": 3
     },
     "PY": {
-      "Paraguay": 425
+      "Paraguay": 450
     },
     "TV": {
       "Tuvalu": 0
