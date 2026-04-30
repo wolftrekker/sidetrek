@@ -914,7 +914,7 @@
     },
     "Svalbard": {
       "iso_a2": "SJ",
-      "loc_count": 14
+      "loc_count": 16
     },
     "Jamaica": {
       "iso_a2": "JM",
@@ -1219,7 +1219,7 @@
       "Maine": 165,
       "Idaho": 325,
       "Colorado": 350,
-      "Illinois": 200,
+      "Illinois": 225,
       "Indiana": 180,
       "Mississippi": 180,
       "Nebraska": 250,
@@ -2287,7 +2287,7 @@
       "Iceland": 450
     },
     "SJ": {
-      "Svalbard": 14
+      "Svalbard": 16
     },
     "JM": {
       "Jamaica": 0
