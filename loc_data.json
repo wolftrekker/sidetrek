@@ -702,7 +702,7 @@
     },
     "Hungary": {
       "iso_a2": "HU",
-      "loc_count": 700
+      "loc_count": 750
     },
     "Barbados": {
       "iso_a2": "BB",
@@ -1379,7 +1379,7 @@
       "Sikkim": 30,
       "Andaman and Nicobar Islands": 50,
       "Lakshadweep": 12,
-      "Odisha": 300,
+      "Odisha": 325,
       "Puducherry": 14,
       "Chandigarh": 5,
       "Arunachal Pradesh": 80,
@@ -2128,7 +2128,7 @@
       "Faroe Islands": 60
     },
     "HU": {
-      "Hungary": 700
+      "Hungary": 750
     },
     "BB": {
       "Barbados": 0
