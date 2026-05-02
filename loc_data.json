@@ -1224,7 +1224,7 @@
       "Mississippi": 180,
       "Nebraska": 250,
       "New Jersey": 100,
-      "Michigan": 225,
+      "Michigan": 250,
       "Connecticut": 80,
       "Rhode Island": 35,
       "North Dakota": 225,
@@ -1281,7 +1281,7 @@
       "Rhineland-Palatinate": 135,
       "Hamburg": 16,
       "Bavaria": 425,
-      "Schleswig-Holstein": 120,
+      "Schleswig-Holstein": 135,
       "Berlin": 20,
       "North Rhine-Westphalia": 300,
       "Saarland": 25,
@@ -1525,7 +1525,7 @@
       "Western Thailand": 200,
       "Eastern Thailand": 200,
       "Central Thailand": 550,
-      "Southern Thailand": 425,
+      "Southern Thailand": 450,
       "Northern Thailand": 450,
       "Northeastern Thailand": 750
     },
@@ -1799,8 +1799,8 @@
       "South East Nigeria": 165,
       "North Central Nigeria": 250,
       "North East Nigeria": 135,
-      "South South Nigeria": 275,
-      "South West Nigeria": 250,
+      "South South Nigeria": 300,
+      "South West Nigeria": 275,
       "North West Nigeria": 180
     },
     "LB": {
