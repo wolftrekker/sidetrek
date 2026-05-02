@@ -650,7 +650,7 @@
     },
     "Sri Lanka": {
       "iso_a2": "LK",
-      "loc_count": 650
+      "loc_count": 700
     },
     "Jersey": {
       "iso_a2": "JE",
@@ -1087,7 +1087,7 @@
       "Shymkent": 40
     },
     "AR": {
-      "Jujuy": 135,
+      "Jujuy": 150,
       "Río Negro": 180,
       "Tucumán": 100,
       "Santiago del Estero": 135,
@@ -1208,7 +1208,7 @@
       "Bashkortostan": 120,
       "Ivanovo Oblast": 40,
       "Voronezh Oblast": 80,
-      "Tambov Oblast": 60
+      "Tambov Oblast": 70
     },
     "CF": {
       "Central African Republic": 0
@@ -1574,7 +1574,7 @@
     "PL": {
       "Masovia": 225,
       "West Pomerania": 110,
-      "Warmia-Masuria": 110,
+      "Warmia-Masuria": 120,
       "Lubusz": 70,
       "Pomerania": 100,
       "Lower Silesia": 120,
@@ -1619,7 +1619,7 @@
       "Ica": 90,
       "Moquegua": 60,
       "Puno": 135,
-      "Huancavelica": 70,
+      "Huancavelica": 80,
       "Ucayali": 35,
       "Apurimac": 50,
       "Huanuco": 80,
@@ -2088,7 +2088,7 @@
       "Rwanda": 225
     },
     "LK": {
-      "Sri Lanka": 650
+      "Sri Lanka": 700
     },
     "JE": {
       "Jersey": 10
