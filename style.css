@@ -569,7 +569,7 @@ p {
   font-size: 0.7rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: var(--text-soft);
 }
 
 .map-total-value {
@@ -622,7 +622,7 @@ p {
   font-family: 'DM Sans', sans-serif;
   font-size: 0.82rem;
   font-weight: 300;
-  color: var(--muted);
+  color: var(--text-soft);
   line-height: 1.7;
 }
 
