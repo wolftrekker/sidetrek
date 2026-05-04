@@ -548,6 +548,37 @@ p {
   height: 100%;
 }
 
+.map-total-badge {
+  position: absolute;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 5;
+  background: rgba(39, 33, 25, 0.92);
+  border: 1px solid var(--border-lift);
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  backdrop-filter: blur(4px);
+  pointer-events: none;
+  font-family: 'Figtree', sans-serif;
+}
+
+.map-total-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.map-total-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-bright);
+  font-variant-numeric: tabular-nums;
+}
+
 /* ── MAPBOX POPUP ── */
 .mapboxgl-popup-content {
   background: var(--surface) !important;

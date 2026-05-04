@@ -382,7 +382,7 @@
     },
     "Kyrgyzstan": {
       "iso_a2": "KG",
-      "loc_count": 180
+      "loc_count": 200
     },
     "Cyprus": {
       "iso_a2": "CY",
@@ -1031,7 +1031,7 @@
       "Mexico City": 20,
       "Campeche": 180,
       "Coahuila": 165,
-      "Tamaulipas": 180,
+      "Tamaulipas": 200,
       "Morelos": 50,
       "Guanajuato": 180,
       "Guerrero": 200,
@@ -1043,7 +1043,7 @@
       "Baja California": 135,
       "Nuevo León": 180,
       "Querétaro": 90,
-      "Durango": 200,
+      "Durango": 225,
       "Sinaloa": 135,
       "Sonora": 225,
       "Zacatecas": 225,
@@ -1128,7 +1128,7 @@
     "RU": {
       "Irkutsk Oblast": 90,
       "Novosibirsk Oblast": 90,
-      "Astrakhan Oblast": 60,
+      "Astrakhan Oblast": 70,
       "Ryazan Oblast": 70,
       "Ulyanovsk Oblast": 60,
       "Arkhangelsk Oblast": 120,
@@ -1154,20 +1154,20 @@
       "Kemerovo Oblast": 90,
       "Krasnodar Krai": 150,
       "Kirov Oblast": 70,
-      "Tuva": 30,
+      "Tuva": 35,
       "Rostov Oblast": 100,
       "Karelia, Republic of": 80,
       "Perm Krai": 90,
       "Mordovia": 45,
       "Komi Republic": 100,
       "Tyumen Oblast": 70,
-      "Khanty-Mansi Autonomous Okrug": 100,
+      "Khanty-Mansi Autonomous Okrug": 110,
       "Omsk Oblast": 110,
       "Tomsk Oblast": 90,
       "Chuvashia": 45,
       "Pskov Oblast": 60,
       "Krasnoyarsk Krai": 80,
-      "Tatarstan": 100,
+      "Tatarstan": 110,
       "Sverdlovsk Oblast": 110,
       "Yaroslavl Oblast": 50,
       "Vologda Oblast": 50,
@@ -1188,7 +1188,7 @@
       "Kabardino-Balkaria": 45,
       "Kamchatka Krai": 30,
       "North Ossetia-Alania": 35,
-      "Volgograd Oblast": 80,
+      "Volgograd Oblast": 90,
       "Chukotka": 0,
       "Kaliningrad Oblast": 80,
       "Kalmykia": 45,
@@ -1289,7 +1289,7 @@
     },
     "IL": {
       "Golan Heights": 25,
-      "Israel": 275
+      "Israel": 300
     },
     "IQ": {
       "Iraq": 0
@@ -1457,7 +1457,7 @@
       "East Java": 400,
       "West Java": 300,
       "Banten": 110,
-      "East Kalimantan": 150,
+      "East Kalimantan": 165,
       "Jakarta": 14,
       "West Kalimantan": 225,
       "Bangka Belitung": 90,
@@ -1771,7 +1771,7 @@
       "Tanzania": 2
     },
     "RO": {
-      "Vest": 200,
+      "Vest": 225,
       "Sud-Vest Oltenia": 200,
       "Centru": 250,
       "București - Ilfov": 30,
@@ -1797,7 +1797,7 @@
     },
     "NG": {
       "South East Nigeria": 165,
-      "North Central Nigeria": 250,
+      "North Central Nigeria": 275,
       "North East Nigeria": 135,
       "South South Nigeria": 300,
       "South West Nigeria": 275,
@@ -1879,7 +1879,7 @@
       "Gabon": 0
     },
     "KG": {
-      "Kyrgyzstan": 180
+      "Kyrgyzstan": 200
     },
     "CY": {
       "Northern Cyprus": 0,
@@ -2015,7 +2015,7 @@
       "Western Norway": 450,
       "Trøndelag": 250,
       "Eastern Norway": 500,
-      "Northern Norway": 475,
+      "Northern Norway": 500,
       "Southern Norway": 135
     },
     "LR": {

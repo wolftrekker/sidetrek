@@ -41,6 +41,10 @@ fetch('loc_data.json')
     }
     // Dynamically calculate world total
     locData.worldTotal = Object.values(locData.country_totals).reduce((a, b) => a + b, 0);
+
+    // Update the floating total badge
+    const totalEl = document.getElementById('map-total-value');
+    if (totalEl) totalEl.textContent = locData.worldTotal.toLocaleString();
   })
   .catch(err => console.error('Failed to load loc_data.json:', err));
  
