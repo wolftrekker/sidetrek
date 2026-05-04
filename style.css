@@ -664,6 +664,66 @@ p {
   margin-bottom: 1.5rem;
 }
 
+.top-countries-card {
+  margin-top: 2rem;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-countries-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.4rem 2.5rem;
+}
+
+.top-country {
+  display: grid;
+  grid-template-columns: 1.5rem 1fr auto auto;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--border);
+  font-family: 'Figtree', sans-serif;
+}
+
+.top-country-rank {
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+}
+
+.top-country-name {
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.top-country-count {
+  color: var(--accent-bright);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+}
+
+.top-country-pct {
+  color: var(--text-soft);
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  min-width: 3rem;
+  text-align: right;
+}
+
+@media (max-width: 720px) {
+  .top-countries-list {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+}
+
 .bar-stats {
   display: flex;
   flex-direction: column;

@@ -606,3 +606,59 @@ function renderBarStats(card) {
 window.addEventListener('load', () => {
   document.querySelectorAll('.stats-card').forEach(renderBarStats);
 });
+
+// ── TOP 10 COUNTRIES ──
+window.addEventListener('load', () => {
+  fetch('loc_data.json')
+    .then(res => res.json())
+    .then(data => {
+      const subs = data.subdivisions;
+
+      // ISO → display name (reuse the COUNTRY_NAMES from inside map.on('load'),
+      // duplicated here since that's scoped inside the map handler)
+      const NAMES = {
+        US: 'United States', BR: 'Brazil', IN: 'India', RU: 'Russia',
+        ID: 'Indonesia', MX: 'Mexico', CA: 'Canada', AU: 'Australia',
+        ZA: 'South Africa', AR: 'Argentina', JP: 'Japan', ES: 'Spain',
+        GB: 'United Kingdom', DE: 'Germany', FR: 'France', IT: 'Italy',
+        TR: 'Turkey', PH: 'Philippines', TH: 'Thailand', PL: 'Poland',
+        CO: 'Colombia', PE: 'Peru', CL: 'Chile', RO: 'Romania', VN: 'Vietnam'
+        // Add more if any new country crashes the top 10
+      };
+
+      // Sum each ISO's subdivisions
+      const totals = [];
+      let grandTotal = 0;
+      for (const iso in subs) {
+        const total = Object.values(subs[iso]).reduce((a, b) => a + b, 0);
+        grandTotal += total;
+        if (total > 0) totals.push({ iso, total });
+      }
+
+      // Sort descending, take top 10
+      totals.sort((a, b) => b.total - a.total);
+      const top10 = totals.slice(0, 10);
+
+      // Render — bar format with world percentages (not card-local)
+      const list = document.querySelector('.top-countries-list');
+      if (!list) return;
+
+      // Find the max value so bars scale relative to the leader
+      const maxCount = top10[0].total;
+
+      list.innerHTML = top10.map((entry, i) => {
+        const name = NAMES[entry.iso] || entry.iso;
+        const worldPct = ((entry.total / grandTotal) * 100).toFixed(1);
+        const barPct = ((entry.total / grandTotal) * 100).toFixed(1);
+        return `
+          <div class="bar-stat">
+            <div class="bar-stat-header">
+              <span class="bar-stat-label">${i + 1}. ${name}</span>
+              <span class="bar-stat-value">${entry.total.toLocaleString()} <span class="bar-stat-pct">${worldPct}%</span></span>
+            </div>
+            <div class="bar-track"><div class="bar-fill" style="width: ${barPct}%"></div></div>
+          </div>
+        `;
+      }).join('');
+    });
+});
