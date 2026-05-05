@@ -92,7 +92,7 @@
       "Jujuy": 150,
       "Río Negro": 180,
       "Tucumán": 100,
-      "Santiago del Estero": 135,
+      "Santiago del Estero": 150,
       "Entre Ríos": 150,
       "Formosa": 100,
       "Córdoba (AR)": 200,
@@ -102,7 +102,7 @@
       "Santa Cruz": 200,
       "Tierra del Fuego": 40,
       "Salta": 165,
-      "San Luis": 135,
+      "San Luis": 150,
       "Catamarca": 135,
       "Mendoza": 150,
       "Misiones": 120,
@@ -264,7 +264,7 @@
       "Delaware": 40,
       "Hawaii": 150,
       "Washington": 325,
-      "Massachusetts": 120,
+      "Massachusetts": 135,
       "Alabama": 180,
       "Nevada": 275
     },
@@ -331,7 +331,7 @@
       "Casanare": 110,
       "La Guajira": 60,
       "Quindío": 35,
-      "Santander": 120,
+      "Santander": 135,
       "Guaviare": 7,
       "San Andrés y Providencia": 14,
       "Huila": 80,
@@ -387,7 +387,7 @@
       "Arunachal Pradesh": 80,
       "Uttar Pradesh": 650,
       "Ladakh": 18,
-      "Assam": 225,
+      "Assam": 250,
       "Nagaland": 2,
       "Himachal Pradesh": 70,
       "Mizoram": 40,
@@ -446,7 +446,7 @@
       "Jambi": 135,
       "North Maluku": 80,
       "Lampung": 200,
-      "Aceh": 40,
+      "Aceh": 45,
       "North Sulawesi": 150,
       "South Sumatra": 200,
       "West Sumatra": 180,
@@ -500,7 +500,7 @@
       "Pahang": 180,
       "Perak": 120,
       "Kelantan": 90,
-      "Johor": 150,
+      "Johor": 165,
       "Putrajaya": 3,
       "Kedah": 80,
       "Selangor": 80,
@@ -587,7 +587,7 @@
       "Silesia": 120,
       "Opole": 60,
       "Świętokrzyskie": 80,
-      "Podlaskie": 100,
+      "Podlaskie": 110,
       "Łódź": 110,
       "Subcarpathia": 135
     },
@@ -651,7 +651,7 @@
       "Corsica": 80,
       "Pays de la Loire": 165,
       "Nouvelle-Aquitaine": 400,
-      "Grand Est": 300,
+      "Grand Est": 325,
       "Brittany": 165,
       "Provence-Alpes-Côte d'Azur": 180,
       "Occitania": 350,
@@ -747,7 +747,7 @@
       "Ashmore and Cartier Islands": 0,
       "Jervis Bay Territory": 0,
       "South Australia": 650,
-      "Queensland": 950,
+      "Queensland": 1000,
       "New South Wales": 1050,
       "Western Australia": 900
     },
@@ -792,7 +792,7 @@
       "Saint Martin": 0
     },
     "NA": {
-      "Namibia": 750
+      "Namibia": 800
     },
     "LT": {
       "Lithuania": 475
@@ -926,7 +926,7 @@
       "Egypt": 5
     },
     "AL": {
-      "Albania": 200
+      "Albania": 225
     },
     "PN": {
       "Pitcairn Islands": 3
@@ -1069,7 +1069,7 @@
       "Trinidad and Tobago": 0
     },
     "MK": {
-      "North Macedonia": 100
+      "North Macedonia": 110
     },
     "GQ": {
       "Equatorial Guinea": 0
@@ -1120,14 +1120,14 @@
       "Cuba": 0
     },
     "TW": {
-      "Taiwan": 650,
+      "Taiwan": 700,
       "Penghu, Kinmen & Matsu": 35
     },
     "GM": {
       "Gambia": 0
     },
     "FO": {
-      "Faroe Islands": 60
+      "Faroe Islands": 70
     },
     "HU": {
       "Hungary": 750
@@ -1205,7 +1205,7 @@
       "Åland": 16
     },
     "PK": {
-      "Pakistan": 16
+      "Pakistan": 18
     },
     "YE": {
       "Yemen": 0
