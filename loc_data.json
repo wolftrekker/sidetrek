@@ -164,9 +164,9 @@
       "Komi Republic": 100,
       "Tyumen Oblast": 70,
       "Khanty-Mansi Autonomous Okrug": 110,
-      "Omsk Oblast": 110,
+      "Omsk Oblast": 120,
       "Tomsk Oblast": 90,
-      "Chuvashia": 45,
+      "Chuvashia": 50,
       "Pskov Oblast": 70,
       "Krasnoyarsk Krai": 80,
       "Tatarstan": 110,
@@ -179,7 +179,7 @@
       "Lipetsk Oblast": 60,
       "Smolensk Oblast": 60,
       "Samara Oblast": 70,
-      "Kaluga Oblast": 60,
+      "Kaluga Oblast": 70,
       "Udmurtia": 60,
       "Chelyabinsk Oblast": 120,
       "Belgorod Oblast": 60,
@@ -240,7 +240,7 @@
       "Ohio": 225,
       "Wisconsin": 200,
       "Arkansas": 200,
-      "North Carolina": 200,
+      "North Carolina": 225,
       "Missouri": 250,
       "New York": 300,
       "New Hampshire": 100,
@@ -262,7 +262,7 @@
       "Georgia (US)": 225,
       "Iowa": 200,
       "Delaware": 40,
-      "Hawaii": 150,
+      "Hawaii": 165,
       "Washington": 325,
       "Massachusetts": 135,
       "Alabama": 180,
@@ -385,9 +385,9 @@
       "Puducherry": 14,
       "Chandigarh": 5,
       "Arunachal Pradesh": 80,
-      "Uttar Pradesh": 650,
+      "Uttar Pradesh": 700,
       "Ladakh": 18,
-      "Assam": 250,
+      "Assam": 275,
       "Nagaland": 2,
       "Himachal Pradesh": 70,
       "Mizoram": 40,
@@ -1136,7 +1136,7 @@
       "Barbados": 0
     },
     "RS": {
-      "Serbia": 300
+      "Serbia": 325
     },
     "MV": {
       "Maldives": 0
@@ -1322,7 +1322,7 @@
       "Jordan": 100
     },
     "FI": {
-      "Finland": 1015
+      "Finland": 1050
     },
     "LU": {
       "Luxembourg": 90
