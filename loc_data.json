@@ -99,7 +99,7 @@
       "Chaco": 150,
       "San Juan": 120,
       "Buenos Aires": 375,
-      "Santa Cruz": 200,
+      "Santa Cruz": 225,
       "Tierra del Fuego": 40,
       "Salta": 165,
       "San Luis": 150,
@@ -222,7 +222,7 @@
       "Idaho": 325,
       "Colorado": 350,
       "Illinois": 225,
-      "Indiana": 180,
+      "Indiana": 200,
       "Mississippi": 180,
       "Nebraska": 250,
       "New Jersey": 100,
@@ -231,11 +231,11 @@
       "Rhode Island": 35,
       "North Dakota": 225,
       "Texas": 700,
-      "Kansas": 225,
+      "Kansas": 250,
       "Montana": 450,
       "Florida": 275,
       "California": 700,
-      "Kentucky": 180,
+      "Kentucky": 200,
       "Virginia": 200,
       "Ohio": 225,
       "Wisconsin": 200,
@@ -252,7 +252,7 @@
       "Utah": 325,
       "Wyoming": 325,
       "New Mexico": 375,
-      "Tennessee": 200,
+      "Tennessee": 225,
       "Alaska": 135,
       "South Carolina": 150,
       "South Dakota": 225,
@@ -263,7 +263,7 @@
       "Iowa": 200,
       "Delaware": 40,
       "Hawaii": 165,
-      "Washington": 325,
+      "Washington": 350,
       "Massachusetts": 135,
       "Alabama": 180,
       "Nevada": 275
@@ -276,10 +276,10 @@
       "Saxony-Anhalt": 120,
       "Bremen": 9,
       "Baden-Württemberg": 250,
-      "Mecklenburg-Vorpommern": 150,
+      "Mecklenburg-Vorpommern": 165,
       "Brandenburg": 165,
       "Thuringia": 110,
-      "Lower Saxony": 300,
+      "Lower Saxony": 325,
       "Rhineland-Palatinate": 135,
       "Hamburg": 16,
       "Bavaria": 425,
@@ -373,13 +373,13 @@
       "Greater London": 22
     },
     "IN": {
-      "Gujarat": 475,
+      "Gujarat": 500,
       "Chhattisgarh": 250,
       "Uttarakhand": 120,
       "Tamil Nadu": 450,
       "West Bengal": 325,
       "Sikkim": 30,
-      "Andaman and Nicobar Islands": 50,
+      "Andaman and Nicobar Islands": 60,
       "Lakshadweep": 14,
       "Odisha": 325,
       "Puducherry": 14,
@@ -393,7 +393,7 @@
       "Mizoram": 40,
       "Delhi": 14,
       "Karnataka": 550,
-      "Meghalaya": 80,
+      "Meghalaya": 90,
       "Andhra Pradesh": 400,
       "Kerala": 150,
       "Jammu and Kashmir": 30,
@@ -407,7 +407,7 @@
       "Bihar": 325,
       "Goa": 40,
       "Haryana": 135,
-      "Punjab": 200,
+      "Punjab": 225,
       "Tripura": 45
     },
     "PW": {
@@ -461,7 +461,7 @@
       "Banten": 110,
       "East Kalimantan": 165,
       "Jakarta": 14,
-      "West Kalimantan": 225,
+      "West Kalimantan": 250,
       "Bangka Belitung": 90,
       "Central Sulawesi": 225,
       "North Sumatra": 300,
@@ -629,7 +629,7 @@
       "Pasco": 40,
       "Cusco": 120,
       "Cajamarca": 120,
-      "Ancash": 135,
+      "Ancash": 150,
       "Lima Province": 35,
       "Lima Region": 180,
       "Loreto": 16,
@@ -692,7 +692,7 @@
       "Valparaíso": 135,
       "Ñuble": 80,
       "Antofagasta": 200,
-      "Arica y Parinacota": 70,
+      "Arica y Parinacota": 80,
       "Aysén": 150,
       "Magallanes": 70,
       "Maule": 150,
@@ -703,7 +703,7 @@
       "Los Ríos": 100,
       "Santiago Metropolitan Region": 100,
       "Los Lagos": 225,
-      "Tarapacá": 110
+      "Tarapacá": 120
     },
     "BM": {
       "Bermuda": 22
@@ -767,7 +767,7 @@
       "Saudi Arabia": 0
     },
     "CZ": {
-      "Czechia": 700
+      "Czechia": 750
     },
     "TZ": {
       "Tanzania": 2
@@ -819,14 +819,14 @@
     },
     "ZA": {
       "KwaZulu-Natal": 425,
-      "Mpumalanga": 350,
-      "North West": 350,
+      "Mpumalanga": 375,
+      "North West": 375,
       "Gauteng": 180,
-      "Eastern Cape": 400,
+      "Eastern Cape": 425,
       "Limpopo": 475,
-      "Free State": 400,
+      "Free State": 425,
       "Northern Cape": 550,
-      "Western Cape": 450
+      "Western Cape": 475
     },
     "RE": {
       "Réunion": 80
@@ -913,8 +913,8 @@
     },
     "NZ": {
       "New Zealand Outlying Islands": 0,
-      "North Island": 800,
-      "South Island": 700
+      "North Island": 850,
+      "South Island": 750
     },
     "VU": {
       "Vanuatu": 3
@@ -1286,7 +1286,7 @@
       "Denmark": 550
     },
     "IS": {
-      "Iceland": 450
+      "Iceland": 475
     },
     "SJ": {
       "Svalbard": 16
