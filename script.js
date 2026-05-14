@@ -1,9 +1,9 @@
 // ── MAPBOX MAP ──
 const MAPBOX_TOKEN = 'pk.eyJ1Ijoid29sZnRyZWtrZXIiLCJhIjoiY21uZXF6ajFsMDJqaDJxcHhsczh6OHpsZyJ9.X2fgaX86Ppzrz8a8i6RUmA';
-const TILESET_NATION = 'wolftrekker.1pc0hsj5';
-const TILESET_SUBD = 'wolftrekker.8myvi8rn';
-const SOURCE_LAYER_NATION = 'nations_final_v9-14vmrh';
-const SOURCE_LAYER_SUBD = 'subd_final_v8-3h801z';
+const TILESET_NATION = 'wolftrekker.acnnf73h';
+const TILESET_SUBD = 'wolftrekker.7vo96tjj';
+const SOURCE_LAYER_NATION = 'nations_final_v10-dvg06k';
+const SOURCE_LAYER_SUBD = 'subd_final_v11-awnkvy';
  
 // Colours (matching site palette)
 const COLOR_HAS_LOCS = '#c49a4a';

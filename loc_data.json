@@ -36,7 +36,7 @@
       "Tamaulipas": 200,
       "Morelos": 50,
       "Guanajuato": 180,
-      "Guerrero": 200,
+      "Guerrero": 225,
       "Baja California Sur": 120,
       "Chiapas": 250,
       "Tlaxcala": 45,
@@ -57,7 +57,7 @@
       "Oaxaca": 275,
       "Puebla": 180,
       "State of Mexico": 120,
-      "Yucatan": 165,
+      "Yucatan": 180,
       "Hidalgo": 120,
       "Veracruz": 275,
       "Aguascalientes": 60,
@@ -377,7 +377,7 @@
       "Chhattisgarh": 250,
       "Uttarakhand": 120,
       "Tamil Nadu": 450,
-      "West Bengal": 325,
+      "West Bengal": 350,
       "Sikkim": 30,
       "Andaman and Nicobar Islands": 60,
       "Lakshadweep": 14,
@@ -483,13 +483,13 @@
       "Nairobi": 20,
       "Coastal Region": 120,
       "Central Kenya": 225,
-      "Nyanza": 225,
+      "Nyanza Region": 225,
       "Maasailand": 180,
       "Rift Valley": 165,
       "Greater Kitui": 200
     },
     "LV": {
-      "Latvia": 450
+      "Latvia": 475
     },
     "CR": {
       "Costa Rica": 400
@@ -596,7 +596,7 @@
       "Ontario": 900,
       "British Columbia": 700,
       "Nunavut": 10,
-      "Northwest Territories": 45,
+      "Northwest Territories": 50,
       "Nova Scotia": 325,
       "Yukon": 60,
       "Newfoundland & Labrador": 275,
@@ -610,7 +610,7 @@
       "Mali": 0
     },
     "PE": {
-      "San Martin": 110,
+      "San Martin": 120,
       "Lambayeque": 70,
       "La Libertad": 135,
       "Madre de Dios": 35,
@@ -625,11 +625,11 @@
       "Ucayali": 35,
       "Apurimac": 50,
       "Huanuco": 80,
-      "Arequipa": 180,
+      "Arequipa": 200,
       "Pasco": 40,
       "Cusco": 120,
       "Cajamarca": 120,
-      "Ancash": 150,
+      "Ancash": 165,
       "Lima Province": 35,
       "Lima Region": 180,
       "Loreto": 16,
@@ -692,7 +692,7 @@
       "Valparaíso": 135,
       "Ñuble": 80,
       "Antofagasta": 200,
-      "Arica y Parinacota": 80,
+      "Arica y Parinacota": 90,
       "Aysén": 150,
       "Magallanes": 70,
       "Maule": 150,
@@ -795,7 +795,7 @@
       "Namibia": 800
     },
     "LT": {
-      "Lithuania": 475
+      "Lithuania": 500
     },
     "NG": {
       "South East Nigeria": 165,
@@ -1235,7 +1235,7 @@
       "Uganda": 100
     },
     "EE": {
-      "Estonia": 425
+      "Estonia": 450
     },
     "SN": {
       "Senegal": 600
