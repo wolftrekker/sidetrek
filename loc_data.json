@@ -47,13 +47,13 @@
       "Querétaro": 90,
       "Durango": 225,
       "Sinaloa": 135,
-      "Sonora": 225,
+      "Sonora": 250,
       "Zacatecas": 225,
       "Jalisco": 250,
       "San Luis Potosí": 200,
       "Colima": 60,
       "Nayarit": 100,
-      "Quintana Roo": 135,
+      "Quintana Roo": 150,
       "Oaxaca": 275,
       "Puebla": 180,
       "State of Mexico": 120,
@@ -197,7 +197,7 @@
       "Saint Petersburg": 14,
       "Dagestan": 80,
       "Sakhalin Oblast": 70,
-      "Vladimir Oblast": 60,
+      "Vladimir Oblast": 70,
       "Sakha Republic": 110,
       "Ingushetia": 10,
       "Nizhny Novgorod Oblast": 100,
@@ -257,7 +257,7 @@
       "South Carolina": 150,
       "South Dakota": 225,
       "Oregon": 350,
-      "Louisiana": 165,
+      "Louisiana": 180,
       "Arizona": 400,
       "Georgia (US)": 225,
       "Iowa": 200,
@@ -308,7 +308,7 @@
       "Central Luzon": 200,
       "Calabarzon": 200,
       "Negros Island": 150,
-      "Eastern Visayas": 120,
+      "Eastern Visayas": 135,
       "Central Visayas": 150,
       "Cagayan Valley": 150,
       "Northern Mindanao": 135,
@@ -328,7 +328,7 @@
       "Valle del Cauca": 100,
       "Amazonas (CO)": 2,
       "Guainía": 0,
-      "Casanare": 110,
+      "Casanare": 120,
       "La Guajira": 60,
       "Quindío": 35,
       "Santander": 135,
@@ -369,7 +369,7 @@
       "East of England": 165,
       "Northern Ireland": 150,
       "Wales": 225,
-      "North West England": 150,
+      "North West England": 165,
       "Greater London": 22
     },
     "IN": {
@@ -392,9 +392,9 @@
       "Himachal Pradesh": 70,
       "Mizoram": 40,
       "Delhi": 14,
-      "Karnataka": 550,
+      "Karnataka": 600,
       "Meghalaya": 90,
-      "Andhra Pradesh": 400,
+      "Andhra Pradesh": 425,
       "Kerala": 150,
       "Jammu and Kashmir": 30,
       "Telangana": 325,
@@ -425,7 +425,7 @@
       "Abruzzo": 90,
       "Aosta Valley": 30,
       "Piedmont": 180,
-      "Trentino-Alto Adige/Südtirol": 110,
+      "Trentino-Alto Adige/Südtirol": 120,
       "Basilicata": 70,
       "Emilia-Romagna": 165,
       "Veneto": 135,
@@ -456,7 +456,7 @@
       "Riau Islands": 60,
       "Papua": 0,
       "West Sulawesi": 70,
-      "East Java": 400,
+      "East Java": 425,
       "West Java": 300,
       "Banten": 110,
       "East Kalimantan": 165,
@@ -524,7 +524,7 @@
       "Chubu": 650
     },
     "TH": {
-      "Western Thailand": 200,
+      "Western Thailand": 225,
       "Eastern Thailand": 200,
       "Central Thailand": 550,
       "Southern Thailand": 450,
@@ -542,7 +542,7 @@
       "Basque Country": 90,
       "Galicia": 200,
       "Valencian Community": 200,
-      "Andalusia": 350,
+      "Andalusia": 375,
       "Asturias": 100,
       "La Rioja (ES)": 45,
       "Balearic Islands": 100,
@@ -560,7 +560,7 @@
     },
     "GR": {
       "Macedonia and Thrace": 275,
-      "Crete": 80,
+      "Crete": 90,
       "Peloponnese, Western Greece and the Ionian": 300,
       "Mount Athos": 0,
       "Thessaly and Central Greece": 225,
@@ -586,14 +586,14 @@
       "Kuyavia-Pomerania": 135,
       "Silesia": 120,
       "Opole": 60,
-      "Świętokrzyskie": 80,
+      "Świętokrzyskie": 90,
       "Podlaskie": 110,
       "Łódź": 110,
       "Subcarpathia": 135
     },
     "CA": {
       "Quebec": 800,
-      "Ontario": 900,
+      "Ontario": 950,
       "British Columbia": 700,
       "Nunavut": 10,
       "Northwest Territories": 50,
@@ -616,11 +616,11 @@
       "Madre de Dios": 35,
       "Junin": 110,
       "Ayacucho": 90,
-      "Tacna": 60,
+      "Tacna": 70,
       "Callao": 8,
       "Ica": 90,
       "Moquegua": 60,
-      "Puno": 135,
+      "Puno": 150,
       "Huancavelica": 80,
       "Ucayali": 35,
       "Apurimac": 50,
@@ -633,7 +633,7 @@
       "Lima Province": 35,
       "Lima Region": 180,
       "Loreto": 16,
-      "Piura": 135,
+      "Piura": 150,
       "Tumbes": 30,
       "Amazonas (PE)": 60
     },
@@ -653,7 +653,7 @@
       "Nouvelle-Aquitaine": 400,
       "Grand Est": 325,
       "Brittany": 165,
-      "Provence-Alpes-Côte d'Azur": 180,
+      "Provence-Alpes-Côte d'Azur": 200,
       "Occitania": 350,
       "Centre-Val de Loire": 180
     },
@@ -682,7 +682,7 @@
       "Anguilla": 0
     },
     "HR": {
-      "Croatia": 550
+      "Croatia": 600
     },
     "BL": {
       "Saint Barthélemy": 0
@@ -843,7 +843,7 @@
       "Southeast": 225,
       "Mekong River Delta": 225,
       "Northwest": 325,
-      "North Central Coast": 325,
+      "North Central Coast": 350,
       "Central Highlands": 375,
       "Northeast": 350
     },
@@ -923,7 +923,7 @@
       "Ireland": 500
     },
     "EG": {
-      "Egypt": 5
+      "Egypt": 6
     },
     "AL": {
       "Albania": 225
