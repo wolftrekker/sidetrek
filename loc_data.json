@@ -3,7 +3,7 @@
     "BR": {
       "Federal District": 18,
       "Sergipe": 100,
-      "Rio de Janeiro": 165,
+      "Rio de Janeiro": 180,
       "Rio Grande do Norte": 150,
       "Pernambuco": 225,
       "Paraná": 475,
@@ -22,7 +22,7 @@
       "Goiás": 500,
       "Santa Catarina": 275,
       "Rondônia": 165,
-      "Bahia": 700,
+      "Bahia": 750,
       "Amapá": 70,
       "Minas Gerais": 850,
       "São Paulo": 550,
@@ -50,7 +50,7 @@
       "Sonora": 250,
       "Zacatecas": 225,
       "Jalisco": 250,
-      "San Luis Potosí": 200,
+      "San Luis Potosí": 225,
       "Colima": 60,
       "Nayarit": 100,
       "Quintana Roo": 150,
@@ -95,7 +95,7 @@
       "Santiago del Estero": 150,
       "Entre Ríos": 150,
       "Formosa": 100,
-      "Córdoba (AR)": 200,
+      "Córdoba (AR)": 225,
       "Chaco": 150,
       "San Juan": 120,
       "Buenos Aires": 375,
@@ -103,7 +103,7 @@
       "Tierra del Fuego": 40,
       "Salta": 165,
       "San Luis": 150,
-      "Catamarca": 135,
+      "Catamarca": 150,
       "Mendoza": 150,
       "Misiones": 120,
       "Neuquén": 150,
@@ -111,7 +111,7 @@
       "Buenos Aires City": 9,
       "Corrientes": 150,
       "Santa Fe": 200,
-      "Chubut": 200,
+      "Chubut": 225,
       "La Pampa": 110
     },
     "NF": {
@@ -121,7 +121,7 @@
       "Azerbaijan": 0
     },
     "EC": {
-      "Ecuador Mainland": 650,
+      "Ecuador Mainland": 700,
       "Galápagos": 2
     },
     "FK": {
@@ -142,9 +142,9 @@
       "Magadan Oblast": 30,
       "Khabarovsk Krai": 35,
       "Chechnya": 35,
-      "Zabaykalsky Krai": 45,
+      "Zabaykalsky Krai": 50,
       "Karachay-Cherkessia": 35,
-      "Penza Oblast": 60,
+      "Penza Oblast": 70,
       "Nenets Autonomous Okrug": 2,
       "Bryansk Oblast": 70,
       "Adygea": 30,
@@ -157,8 +157,8 @@
       "Krasnodar Krai": 150,
       "Kirov Oblast": 70,
       "Tuva": 35,
-      "Rostov Oblast": 100,
-      "Karelia, Republic of": 80,
+      "Rostov Oblast": 110,
+      "Karelia, Republic of": 90,
       "Perm Krai": 90,
       "Mordovia": 45,
       "Komi Republic": 100,
@@ -181,7 +181,7 @@
       "Samara Oblast": 70,
       "Kaluga Oblast": 70,
       "Udmurtia": 60,
-      "Chelyabinsk Oblast": 120,
+      "Chelyabinsk Oblast": 135,
       "Belgorod Oblast": 60,
       "Kostroma Oblast": 40,
       "Leningrad Oblast": 120,
@@ -201,7 +201,7 @@
       "Sakha Republic": 110,
       "Ingushetia": 10,
       "Nizhny Novgorod Oblast": 100,
-      "Stavropol Krai": 80,
+      "Stavropol Krai": 90,
       "Altai Republic": 30,
       "Buryatia": 150,
       "Moscow Oblast": 135,
@@ -209,7 +209,7 @@
       "Amur Oblast": 50,
       "Bashkortostan": 120,
       "Ivanovo Oblast": 40,
-      "Voronezh Oblast": 80,
+      "Voronezh Oblast": 90,
       "Tambov Oblast": 70
     },
     "CF": {
@@ -236,7 +236,7 @@
       "Florida": 275,
       "California": 700,
       "Kentucky": 200,
-      "Virginia": 200,
+      "Virginia": 225,
       "Ohio": 225,
       "Wisconsin": 200,
       "Arkansas": 200,
@@ -263,7 +263,7 @@
       "Iowa": 200,
       "Delaware": 40,
       "Hawaii": 165,
-      "Washington": 350,
+      "Washington": 375,
       "Massachusetts": 135,
       "Alabama": 180,
       "Nevada": 275
@@ -285,7 +285,7 @@
       "Bavaria": 425,
       "Schleswig-Holstein": 135,
       "Berlin": 20,
-      "North Rhine-Westphalia": 300,
+      "North Rhine-Westphalia": 325,
       "Saarland": 25,
       "Hesse": 120
     },
@@ -301,7 +301,7 @@
     },
     "PH": {
       "Davao Region": 135,
-      "Cordillera Administrative Region": 90,
+      "Cordillera Administrative Region": 100,
       "Palawan": 90,
       "Bangsamoro": 25,
       "Bicol Region": 165,
@@ -345,7 +345,7 @@
       "Vichada": 8,
       "Cauca": 60,
       "Magdalena": 50,
-      "Boyacá": 100,
+      "Boyacá": 110,
       "Arauca": 18,
       "Nariño": 80,
       "Caquetá": 20,
@@ -368,14 +368,14 @@
       "Yorkshire and the Humber": 150,
       "East of England": 165,
       "Northern Ireland": 150,
-      "Wales": 225,
+      "Wales": 250,
       "North West England": 165,
       "Greater London": 22
     },
     "IN": {
       "Gujarat": 500,
       "Chhattisgarh": 250,
-      "Uttarakhand": 120,
+      "Uttarakhand": 135,
       "Tamil Nadu": 450,
       "West Bengal": 350,
       "Sikkim": 30,
@@ -389,7 +389,7 @@
       "Ladakh": 18,
       "Assam": 275,
       "Nagaland": 2,
-      "Himachal Pradesh": 70,
+      "Himachal Pradesh": 80,
       "Mizoram": 40,
       "Delhi": 14,
       "Karnataka": 600,
@@ -398,7 +398,7 @@
       "Kerala": 150,
       "Jammu and Kashmir": 30,
       "Telangana": 325,
-      "Rajasthan": 750,
+      "Rajasthan": 800,
       "Jharkhand": 225,
       "Maharashtra": 750,
       "Manipur": 20,
@@ -495,7 +495,7 @@
       "Costa Rica": 400
     },
     "MY": {
-      "Terengganu": 100,
+      "Terengganu": 110,
       "Negeri Sembilan": 80,
       "Pahang": 180,
       "Perak": 120,
@@ -506,7 +506,7 @@
       "Selangor": 80,
       "Sarawak": 275,
       "Penang": 35,
-      "Sabah": 250,
+      "Sabah": 275,
       "Malacca": 40,
       "Perlis": 30,
       "Kuala Lumpur": 9,
@@ -516,7 +516,7 @@
       "Tohoku": 550,
       "Kyushu": 475,
       "Shikoku": 200,
-      "Ryukyu Islands": 80,
+      "Ryukyu Islands": 90,
       "Kansai": 325,
       "Hokkaido": 325,
       "Kanto": 450,
@@ -529,7 +529,7 @@
       "Central Thailand": 550,
       "Southern Thailand": 450,
       "Northern Thailand": 450,
-      "Northeastern Thailand": 750
+      "Northeastern Thailand": 800
     },
     "XK": {
       "Kosovo": 0
@@ -575,11 +575,11 @@
     },
     "PL": {
       "Masovia": 225,
-      "West Pomerania": 110,
+      "West Pomerania": 120,
       "Warmia-Masuria": 120,
       "Lubusz": 70,
       "Pomerania": 100,
-      "Lower Silesia": 120,
+      "Lower Silesia": 135,
       "Lesser Poland": 150,
       "Lublin": 120,
       "Greater Poland": 200,
@@ -598,7 +598,7 @@
       "Nunavut": 10,
       "Northwest Territories": 50,
       "Nova Scotia": 325,
-      "Yukon": 60,
+      "Yukon": 70,
       "Newfoundland & Labrador": 275,
       "New Brunswick": 325,
       "Manitoba": 375,
@@ -628,8 +628,8 @@
       "Arequipa": 200,
       "Pasco": 40,
       "Cusco": 120,
-      "Cajamarca": 120,
-      "Ancash": 165,
+      "Cajamarca": 135,
+      "Ancash": 180,
       "Lima Province": 35,
       "Lima Region": 180,
       "Loreto": 16,
@@ -648,7 +648,7 @@
       "Bourgogne-Franche-Comté": 250,
       "Hauts-de-France": 180,
       "Île-de-France": 100,
-      "Corsica": 80,
+      "Corsica": 90,
       "Pays de la Loire": 165,
       "Nouvelle-Aquitaine": 400,
       "Grand Est": 325,
@@ -664,12 +664,12 @@
       "Saint Kitts and Nevis": 0
     },
     "TR": {
-      "Black Sea": 450,
+      "Black Sea": 475,
       "Central Anatolia": 650,
       "Marmara": 500,
       "Mediterranean": 375,
       "Aegean (TR)": 400,
-      "Southeastern Anatolia": 275,
+      "Southeastern Anatolia": 300,
       "Eastern Anatolia": 450
     },
     "KY": {
@@ -742,7 +742,7 @@
     "AU": {
       "Northern Territory": 200,
       "Australian Capital Territory": 25,
-      "Victoria": 700,
+      "Victoria": 750,
       "Tasmania": 350,
       "Ashmore and Cartier Islands": 0,
       "Jervis Bay Territory": 0,
@@ -775,7 +775,7 @@
     "RO": {
       "Vest": 225,
       "Sud-Vest Oltenia": 200,
-      "Centru": 250,
+      "Centru": 275,
       "București - Ilfov": 30,
       "Nord-Vest": 275,
       "Nord-Est": 275,
@@ -802,7 +802,7 @@
       "North Central Nigeria": 275,
       "North East Nigeria": 135,
       "South South Nigeria": 300,
-      "South West Nigeria": 275,
+      "South West Nigeria": 300,
       "North West Nigeria": 180
     },
     "LB": {
@@ -815,18 +815,18 @@
       "Honduras": 0
     },
     "BW": {
-      "Botswana": 400
+      "Botswana": 425
     },
     "ZA": {
       "KwaZulu-Natal": 425,
-      "Mpumalanga": 375,
-      "North West": 375,
+      "Mpumalanga": 400,
+      "North West": 400,
       "Gauteng": 180,
       "Eastern Cape": 425,
-      "Limpopo": 475,
-      "Free State": 425,
-      "Northern Cape": 550,
-      "Western Cape": 475
+      "Limpopo": 500,
+      "Free State": 475,
+      "Northern Cape": 600,
+      "Western Cape": 500
     },
     "RE": {
       "Réunion": 80
@@ -841,7 +841,7 @@
       "South Central Coast": 325,
       "Red River Delta": 165,
       "Southeast": 225,
-      "Mekong River Delta": 225,
+      "Mekong River Delta": 250,
       "Northwest": 325,
       "North Central Coast": 350,
       "Central Highlands": 375,
@@ -947,7 +947,7 @@
       "Samoa": 0
     },
     "LA": {
-      "Laos": 60
+      "Laos": 70
     },
     "TM": {
       "Turkmenistan": 0
@@ -978,7 +978,7 @@
       "American Samoa": 25
     },
     "MG": {
-      "Madagascar": 14
+      "Madagascar": 16
     },
     "LY": {
       "Libya": 0
@@ -1087,7 +1087,7 @@
       "Brunei": 0
     },
     "RW": {
-      "Rwanda": 225
+      "Rwanda": 250
     },
     "LK": {
       "Sri Lanka": 700
@@ -1169,7 +1169,7 @@
       "South Korea": 600
     },
     "MN": {
-      "Mongolia": 600
+      "Mongolia": 650
     },
     "CI": {
       "Ivory Coast": 0
@@ -1196,7 +1196,7 @@
       "Western Sahara": 0
     },
     "NL": {
-      "Netherlands": 550
+      "Netherlands": 600
     },
     "GT": {
       "Guatemala": 375
@@ -1232,7 +1232,7 @@
       "Bouvet Island": 0
     },
     "UG": {
-      "Uganda": 100
+      "Uganda": 110
     },
     "EE": {
       "Estonia": 450
@@ -1283,7 +1283,7 @@
       "French Guiana": 0
     },
     "DK": {
-      "Denmark": 550
+      "Denmark": 600
     },
     "IS": {
       "Iceland": 475
@@ -1328,7 +1328,7 @@
       "Luxembourg": 90
     },
     "KH": {
-      "Cambodia": 800
+      "Cambodia": 850
     },
     "GP": {
       "Guadeloupe": 0
