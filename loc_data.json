@@ -353,7 +353,7 @@
       "Norte de Santander": 70,
       "Sucre": 60,
       "Antioquia": 180,
-      "Caldas": 50
+      "Caldas": 60
     },
     "ER": {
       "Eritrea": 0
@@ -389,7 +389,7 @@
       "Ladakh": 18,
       "Assam": 275,
       "Nagaland": 2,
-      "Himachal Pradesh": 80,
+      "Himachal Pradesh": 85,
       "Mizoram": 40,
       "Delhi": 14,
       "Karnataka": 600,
@@ -612,7 +612,7 @@
     "PE": {
       "San Martin": 120,
       "Lambayeque": 70,
-      "La Libertad": 135,
+      "La Libertad": 150,
       "Madre de Dios": 35,
       "Junin": 110,
       "Ayacucho": 90,
@@ -802,7 +802,7 @@
       "North Central Nigeria": 275,
       "North East Nigeria": 135,
       "South South Nigeria": 300,
-      "South West Nigeria": 300,
+      "South West Nigeria": 325,
       "North West Nigeria": 180
     },
     "LB": {
@@ -824,7 +824,7 @@
       "Gauteng": 180,
       "Eastern Cape": 425,
       "Limpopo": 500,
-      "Free State": 475,
+      "Free State": 500,
       "Northern Cape": 600,
       "Western Cape": 500
     },
