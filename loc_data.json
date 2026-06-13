@@ -4,7 +4,7 @@
       "Federal District": 18,
       "Sergipe": 100,
       "Rio de Janeiro": 180,
-      "Rio Grande do Norte": 150,
+      "Rio Grande do Norte": 165,
       "Pernambuco": 225,
       "Paraná": 475,
       "Tocantins": 325,
@@ -218,11 +218,11 @@
     "US": {
       "Maryland": 110,
       "West Virginia": 150,
-      "Maine": 165,
+      "Maine": 180,
       "Idaho": 325,
       "Colorado": 350,
       "Illinois": 225,
-      "Indiana": 200,
+      "Indiana": 225,
       "Mississippi": 180,
       "Nebraska": 250,
       "New Jersey": 100,
@@ -277,7 +277,7 @@
       "Bremen": 9,
       "Baden-Württemberg": 250,
       "Mecklenburg-Vorpommern": 165,
-      "Brandenburg": 165,
+      "Brandenburg": 180,
       "Thuringia": 110,
       "Lower Saxony": 325,
       "Rhineland-Palatinate": 135,
@@ -429,7 +429,7 @@
       "Basilicata": 70,
       "Emilia-Romagna": 165,
       "Veneto": 135,
-      "Campania": 120,
+      "Campania": 135,
       "Apulia": 150,
       "Umbria": 60,
       "Calabria": 135,
@@ -1039,7 +1039,7 @@
       "Macau": 12
     },
     "GH": {
-      "Ghana": 375
+      "Ghana": 475
     },
     "UZ": {
       "Uzbekistan": 0
