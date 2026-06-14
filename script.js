@@ -56,13 +56,13 @@ map.on('load', () => {
   map.addSource('nation', {
     type: 'vector',
     url: `mapbox://${TILESET_NATION}`,
-    promoteId: 'unit_code'
+    promoteId: 'unit_name'
   });
  
   map.addSource('subd', {
     type: 'vector',
     url: `mapbox://${TILESET_SUBD}`,
-    promoteId: 'unit_code'
+    promoteId: 'unit_name'
   });
  
   // ── NATION LAYERS ──
