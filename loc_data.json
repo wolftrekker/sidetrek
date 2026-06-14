@@ -300,14 +300,14 @@
       "Guam": 35
     },
     "PH": {
-      "Northern Luzon": 430,
-      "Metro Manila": 16,
+      "Northern Luzon": 425,
+      "Metro Manila": 18,
       "Central Luzon": 200,
-      "Southern Luzon": 380,
-      "Mindoro": 80,
-      "Palawan": 90,
-      "Visayas": 570,
-      "Mindanao": 570
+      "Southern Luzon": 375,
+      "Mindoro": 90,
+      "Palawan": 100,
+      "Visayas": 550,
+      "Mindanao": 600
     },
     "CO": {
       "Meta": 100,
