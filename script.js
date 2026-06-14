@@ -1,9 +1,9 @@
 // ── MAPBOX MAP ──
 const MAPBOX_TOKEN = 'pk.eyJ1Ijoid29sZnRyZWtrZXIiLCJhIjoiY21uZXF6ajFsMDJqaDJxcHhsczh6OHpsZyJ9.X2fgaX86Ppzrz8a8i6RUmA';
-const TILESET_NATION = 'wolftrekker.acnnf73h';
-const TILESET_SUBD = 'wolftrekker.7vo96tjj';
-const SOURCE_LAYER_NATION = 'nations_final_v10-dvg06k';
-const SOURCE_LAYER_SUBD = 'subd_final_v11-awnkvy';
+const TILESET_NATION = 'wolftrekker.0tagvzl1ssmx';
+const TILESET_SUBD = 'wolftrekker.cb8uorg83kfr';
+const SOURCE_LAYER_NATION = '9dce6781d406671a552b';
+const SOURCE_LAYER_SUBD = '6d9335f29d0fd02353e4';
  
 // Colours (matching site palette)
 const COLOR_HAS_LOCS = '#c49a4a';
@@ -51,14 +51,18 @@ fetch('loc_data.json')
 map.on('load', () => {
  
   // ── SOURCES ──
+  // promoteId lifts `unit_code` onto each feature's id so we can drive hover
+  // (and any future highlights) via feature-state instead of repainting.
   map.addSource('nation', {
     type: 'vector',
-    url: `mapbox://${TILESET_NATION}`
+    url: `mapbox://${TILESET_NATION}`,
+    promoteId: 'unit_code'
   });
  
   map.addSource('subd', {
     type: 'vector',
-    url: `mapbox://${TILESET_SUBD}`
+    url: `mapbox://${TILESET_SUBD}`,
+    promoteId: 'unit_code'
   });
  
   // ── NATION LAYERS ──
@@ -110,7 +114,13 @@ map.on('load', () => {
         COLOR_HOVER,
         COLOR_HOVER_GREY
       ],
-      'fill-opacity': 0
+      // Driven by feature-state now — no per-mousemove repaint.
+      'fill-opacity': [
+        'case',
+        ['boolean', ['feature-state', 'hover'], false],
+        0.2,
+        0
+      ]
     }
   });
  
@@ -192,7 +202,13 @@ map.on('load', () => {
         COLOR_HOVER,
         COLOR_HOVER_GREY
       ],
-      'fill-opacity': 0
+      // Driven by feature-state now — no per-mousemove repaint.
+      'fill-opacity': [
+        'case',
+        ['boolean', ['feature-state', 'hover'], false],
+        0.2,
+        0
+      ]
     }
   });
  
@@ -243,31 +259,38 @@ const COUNTRY_NAMES = {
   ZW: 'Zimbabwe'
 };
 
-  // ── HOVER ──
-  const setupHover = (fillLayer, hoverLayer) => {
+  // ── HOVER (feature-state based — no per-move repaint) ──
+  const setupHover = (fillLayer, source, sourceLayer) => {
+    let hoveredId = null;
+
+    const clearHover = () => {
+      if (hoveredId !== null) {
+        map.setFeatureState({ source, sourceLayer, id: hoveredId }, { hover: false });
+        hoveredId = null;
+      }
+    };
+
     map.on('mouseenter', fillLayer, () => {
       map.getCanvas().style.cursor = 'pointer';
     });
- 
+
+    map.on('mousemove', fillLayer, (e) => {
+      if (!e.features.length) return;
+      const id = e.features[0].id;
+      if (id === hoveredId) return;        // same feature, nothing to do
+      clearHover();
+      hoveredId = id;
+      map.setFeatureState({ source, sourceLayer, id: hoveredId }, { hover: true });
+    });
+
     map.on('mouseleave', fillLayer, () => {
       map.getCanvas().style.cursor = '';
-      map.setPaintProperty(hoverLayer, 'fill-opacity', 0);
-    });
- 
-    map.on('mousemove', fillLayer, (e) => {
-      if (e.features.length > 0) {
-        map.setPaintProperty(hoverLayer, 'fill-opacity', [
-          'case',
-          ['==', ['get', 'unit_name'], e.features[0].properties.unit_name],
-          0.2,
-          0
-        ]);
-      }
+      clearHover();
     });
   };
  
-  setupHover('nation-fill', 'nation-hover');
-  setupHover('subd-fill', 'subd-hover');
+  setupHover('nation-fill', 'nation', SOURCE_LAYER_NATION);
+  setupHover('subd-fill', 'subd', SOURCE_LAYER_SUBD);
  
   // ── POPUPS ──
   const popup = new mapboxgl.Popup({
