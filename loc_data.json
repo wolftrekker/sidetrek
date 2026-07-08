@@ -12,7 +12,7 @@
       "Alagoas": 100,
       "Rio Grande do Sul": 450,
       "Maranhão": 325,
-      "Amazonas (BR)": 110,
+      "Amazonas (BR)": 113,
       "Espírito Santo": 150,
       "Roraima": 135,
       "Acre": 90,
@@ -21,7 +21,7 @@
       "Mato Grosso": 550,
       "Goiás": 500,
       "Santa Catarina": 275,
-      "Rondônia": 165,
+      "Rondônia": 180,
       "Bahia": 750,
       "Amapá": 70,
       "Minas Gerais": 850,
@@ -121,7 +121,7 @@
       "Azerbaijan": 0
     },
     "EC": {
-      "Ecuador Mainland": 700,
+      "Ecuador Mainland": 701,
       "Galápagos": 2
     },
     "FK": {
@@ -365,7 +365,7 @@
       "Gujarat": 500,
       "Chhattisgarh": 250,
       "Uttarakhand": 135,
-      "Tamil Nadu": 450,
+      "Tamil Nadu": 475,
       "West Bengal": 350,
       "Sikkim": 30,
       "Andaman and Nicobar Islands": 60,
@@ -378,12 +378,12 @@
       "Ladakh": 18,
       "Assam": 275,
       "Nagaland": 2,
-      "Himachal Pradesh": 91,
+      "Himachal Pradesh": 100,
       "Mizoram": 40,
       "Delhi": 14,
       "Karnataka": 600,
       "Meghalaya": 90,
-      "Andhra Pradesh": 425,
+      "Andhra Pradesh": 450,
       "Kerala": 150,
       "Jammu and Kashmir": 30,
       "Telangana": 325,
@@ -395,7 +395,7 @@
       "Madhya Pradesh": 700,
       "Bihar": 325,
       "Goa": 40,
-      "Haryana": 135,
+      "Haryana": 150,
       "Punjab": 225,
       "Tripura": 45
     },
@@ -583,7 +583,7 @@
     "CA": {
       "Quebec": 800,
       "Ontario": 950,
-      "British Columbia": 700,
+      "British Columbia": 717,
       "Nunavut": 10,
       "Northwest Territories": 50,
       "Nova Scotia": 325,
@@ -791,7 +791,7 @@
       "North Central Nigeria": 275,
       "North East Nigeria": 135,
       "South South Nigeria": 300,
-      "South West Nigeria": 325,
+      "South West Nigeria": 342,
       "North West Nigeria": 180
     },
     "LB": {
@@ -842,7 +842,7 @@
       "Uruguay": 500
     },
     "GE": {
-      "Georgia": 800
+      "Georgia": 809
     },
     "LC": {
       "Saint Lucia": 0
@@ -914,7 +914,7 @@
       "Egypt": 6
     },
     "AL": {
-      "Albania": 225
+      "Albania": 350
     },
     "PN": {
       "Pitcairn Islands": 3
@@ -944,7 +944,7 @@
       "Fiji": 0
     },
     "ME": {
-      "Montenegro": 110
+      "Montenegro": 180
     },
     "GG": {
       "Guernsey": 0
@@ -1027,7 +1027,7 @@
       "Macau": 12
     },
     "GH": {
-      "Ghana": 550
+      "Ghana": 600
     },
     "UZ": {
       "Uzbekistan": 0
@@ -1057,7 +1057,7 @@
       "Trinidad and Tobago": 0
     },
     "MK": {
-      "North Macedonia": 110
+      "North Macedonia": 325
     },
     "GQ": {
       "Equatorial Guinea": 0
@@ -1124,7 +1124,7 @@
       "Barbados": 0
     },
     "RS": {
-      "Serbia": 325
+      "Serbia": 700
     },
     "MV": {
       "Maldives": 0
