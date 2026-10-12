@@ -17,8 +17,8 @@
       "Roraima": 150,
       "Acre": 90,
       "Mato Grosso do Sul": 400,
-      "Piauí": 275,
-      "Mato Grosso": 600,
+      "Piauí": 300,
+      "Mato Grosso": 650,
       "Goiás": 500,
       "Santa Catarina": 275,
       "Rondônia": 180,
@@ -98,12 +98,12 @@
       "Córdoba (AR)": 225,
       "Chaco": 150,
       "San Juan": 120,
-      "Buenos Aires": 375,
+      "Buenos Aires": 400,
       "Santa Cruz": 225,
-      "Tierra del Fuego": 40,
+      "Tierra del Fuego": 45,
       "Salta": 165,
       "San Luis": 150,
-      "Catamarca": 150,
+      "Catamarca": 165,
       "Mendoza": 150,
       "Misiones": 120,
       "Neuquén": 150,
@@ -128,7 +128,7 @@
       "Falkland Islands": 3
     },
     "RU": {
-      "Irkutsk Oblast": 90,
+      "Irkutsk Oblast": 100,
       "Novosibirsk Oblast": 100,
       "Astrakhan Oblast": 70,
       "Ryazan Oblast": 70,
@@ -182,11 +182,11 @@
       "Kaluga Oblast": 70,
       "Udmurtia": 60,
       "Chelyabinsk Oblast": 135,
-      "Belgorod Oblast": 60,
+      "Belgorod Oblast": 70,
       "Kostroma Oblast": 40,
       "Leningrad Oblast": 120,
       "Oryol Oblast": 50,
-      "Novgorod Oblast": 60,
+      "Novgorod Oblast": 70,
       "Kabardino-Balkaria": 45,
       "Kamchatka Krai": 30,
       "North Ossetia-Alania": 40,
@@ -218,7 +218,7 @@
     "US": {
       "Maryland": 110,
       "West Virginia": 150,
-      "Maine": 180,
+      "Maine": 200,
       "Idaho": 325,
       "Colorado": 350,
       "Illinois": 225,
@@ -247,13 +247,13 @@
       "Vermont": 90,
       "Oklahoma": 250,
       "District of Columbia": 6,
-      "Pennsylvania": 250,
+      "Pennsylvania": 275,
       "Minnesota": 250,
       "Utah": 325,
       "Wyoming": 325,
       "New Mexico": 375,
       "Tennessee": 225,
-      "Alaska": 135,
+      "Alaska": 200,
       "South Carolina": 165,
       "South Dakota": 225,
       "Oregon": 350,
@@ -287,7 +287,7 @@
       "Berlin": 20,
       "North Rhine-Westphalia": 325,
       "Saarland": 25,
-      "Hesse": 120
+      "Hesse": 135
     },
     "IL": {
       "Golan Heights": 25,
@@ -341,18 +341,18 @@
       "Bogotá": 30,
       "Norte de Santander": 70,
       "Sucre": 60,
-      "Antioquia": 180,
+      "Antioquia": 200,
       "Caldas": 60
     },
     "ER": {
       "Eritrea": 0
     },
     "GB": {
-      "Scotland": 550,
+      "Scotland": 600,
       "North East England": 100,
       "West Midlands": 135,
       "East Midlands": 135,
-      "South West England": 200,
+      "South West England": 225,
       "South East England": 180,
       "Yorkshire and the Humber": 150,
       "East of England": 165,
@@ -421,7 +421,7 @@
       "Campania": 135,
       "Apulia": 150,
       "Umbria": 60,
-      "Calabria": 135,
+      "Calabria": 150,
       "Marche": 80
     },
     "PS": {
@@ -440,7 +440,7 @@
       "South Sumatra": 200,
       "West Sumatra": 180,
       "Bali": 135,
-      "Gorontalo": 70,
+      "Gorontalo": 80,
       "East Nusa Tenggara": 350,
       "Riau Islands": 60,
       "Papua": 0,
@@ -513,7 +513,7 @@
       "Chubu": 650
     },
     "TH": {
-      "Western Thailand": 225,
+      "Western Thailand": 250,
       "Eastern Thailand": 200,
       "Central Thailand": 550,
       "Southern Thailand": 450,
@@ -570,7 +570,7 @@
       "Pomerania": 100,
       "Lower Silesia": 135,
       "Lesser Poland": 150,
-      "Lublin": 120,
+      "Lublin": 135,
       "Greater Poland": 200,
       "Kuyavia-Pomerania": 135,
       "Silesia": 120,
@@ -583,16 +583,16 @@
     "CA": {
       "Quebec": 800,
       "Ontario": 950,
-      "British Columbia": 717,
+      "British Columbia": 750,
       "Nunavut": 10,
       "Northwest Territories": 50,
       "Nova Scotia": 325,
-      "Yukon": 70,
+      "Yukon": 80,
       "Newfoundland & Labrador": 275,
       "New Brunswick": 325,
-      "Manitoba": 375,
+      "Manitoba": 400,
       "Saskatchewan": 500,
-      "Alberta": 650,
+      "Alberta": 700,
       "Prince Edward Island": 80
     },
     "ML": {
@@ -603,8 +603,8 @@
       "Lambayeque": 70,
       "La Libertad": 180,
       "Madre de Dios": 35,
-      "Junin": 110,
-      "Ayacucho": 90,
+      "Junin": 150,
+      "Ayacucho": 110,
       "Tacna": 70,
       "Callao": 8,
       "Ica": 90,
@@ -613,9 +613,9 @@
       "Huancavelica": 80,
       "Ucayali": 35,
       "Apurimac": 50,
-      "Huanuco": 80,
+      "Huanuco": 100,
       "Arequipa": 200,
-      "Pasco": 40,
+      "Pasco": 45,
       "Cusco": 120,
       "Cajamarca": 165,
       "Ancash": 200,
@@ -685,7 +685,7 @@
       "Aysén": 150,
       "Magallanes": 70,
       "Maule": 150,
-      "Biobío": 100,
+      "Biobío": 110,
       "Atacama": 200,
       "La Araucanía": 135,
       "Coquimbo": 165,
@@ -720,7 +720,7 @@
     },
     "BD": {
       "Dhaka": 225,
-      "Barisal": 90,
+      "Barisal": 100,
       "Sylhet": 110,
       "Khulna": 200,
       "Mymensingh": 110,
@@ -788,7 +788,7 @@
     },
     "NG": {
       "South East Nigeria": 165,
-      "North Central Nigeria": 281,
+      "North Central Nigeria": 275,
       "North East Nigeria": 135,
       "South South Nigeria": 325,
       "South West Nigeria": 350,
@@ -813,7 +813,7 @@
       "Gauteng": 180,
       "Eastern Cape": 450,
       "Limpopo": 500,
-      "Free State": 527,
+      "Free State": 550,
       "Northern Cape": 600,
       "Western Cape": 500
     },
@@ -842,7 +842,7 @@
       "Uruguay": 500
     },
     "GE": {
-      "Georgia": 800
+      "Georgia": 850
     },
     "LC": {
       "Saint Lucia": 0
@@ -908,7 +908,7 @@
       "Vanuatu": 3
     },
     "IE": {
-      "Ireland": 500
+      "Ireland": 550
     },
     "EG": {
       "Egypt": 6
@@ -920,7 +920,7 @@
       "Pitcairn Islands": 3
     },
     "PY": {
-      "Paraguay": 475
+      "Paraguay": 500
     },
     "TV": {
       "Tuvalu": 0
@@ -1027,7 +1027,7 @@
       "Macau": 12
     },
     "GH": {
-      "Ghana": 650
+      "Ghana": 800
     },
     "UZ": {
       "Uzbekistan": 0
@@ -1307,13 +1307,13 @@
       "Saint Vincent and the Grenadines": 0
     },
     "JO": {
-      "Jordan": 100
+      "Jordan": 110
     },
     "FI": {
       "Finland": 1050
     },
     "LU": {
-      "Luxembourg": 90
+      "Luxembourg": 100
     },
     "KH": {
       "Cambodia": 850
